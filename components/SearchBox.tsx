@@ -21,11 +21,11 @@ export default function SearchBox({ initialQuery = "" }: { initialQuery?: string
         value={query}
         onChange={(e) => setQuery(e.target.value)}
         placeholder="キーワードで探す"
-        className="flex-1 rounded-md border border-stone-300 bg-white px-3 py-2 text-sm focus:border-stone-500 focus:outline-none"
+        className="min-h-11 flex-1 rounded-md border border-stone-300 bg-white px-3 text-sm focus:border-stone-500 focus:outline-none"
       />
       <button
         type="submit"
-        className="rounded-md bg-stone-900 px-4 py-2 text-sm font-medium text-white"
+        className="min-h-11 rounded-md bg-stone-900 px-4 text-sm font-medium text-white"
       >
         検索
       </button>
