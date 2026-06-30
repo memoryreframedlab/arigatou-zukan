@@ -5,7 +5,7 @@ publishedAt: "2026-06-30"
 updatedAt: "2026-06-30"
 description: "蛇口をひねれば水が出る。当たり前すぎて疑問にも思わないその仕組みは、いつ、どうやって生まれたのか。"
 thumbnail: ""
-relatedSlugs: []
+relatedSlugs: ["reizouko", "denki"]
 ---
 
 蛇口をひねれば、水が出る。
