@@ -66,17 +66,13 @@ export default async function ArticlePage({
         ) : null}
 
         <div
-          className="prose prose-stone mt-6 max-w-none prose-headings:font-bold prose-headings:text-lg prose-p:leading-relaxed prose-p:text-stone-800"
+          className="prose prose-stone mt-6 max-w-none prose-headings:font-bold prose-headings:text-xl prose-headings:mt-10 prose-headings:mb-4 prose-headings:text-stone-900 prose-p:leading-relaxed prose-p:text-stone-800"
           dangerouslySetInnerHTML={{ __html: article.contentHtml }}
         />
       </article>
 
-      <div className="mt-10">
-        <SearchBox />
-      </div>
-
       {related.length > 0 ? (
-        <section className="mt-10">
+        <section className="mt-12">
           <h2 className="mb-3 text-sm font-bold text-stone-500">関連記事</h2>
           <div className="flex flex-col gap-3">
             {related.map((a) => (
@@ -96,6 +92,11 @@ export default async function ArticlePage({
           </div>
         </section>
       ) : null}
+
+      <div className="mt-12 border-t border-stone-200 pt-6">
+        <p className="mb-2 text-xs text-stone-400">気になることがあれば</p>
+        <SearchBox />
+      </div>
     </main>
   );
 }
