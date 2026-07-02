@@ -11,12 +11,9 @@ function Icon({ slug }: { slug: string }) {
   if (slug === "suidou") {
     return (
       <svg width="140" height="140" viewBox="0 0 140 140">
-        {/* faucet spout */}
         <rect x="50" y="20" width="40" height="12" rx="4" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
         <rect x="62" y="32" width="16" height="40" rx="4" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
-        {/* spout curve */}
         <path d="M62 72 Q62 90 50 95" fill="none" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
-        {/* water drop */}
         <ellipse cx="48" cy="108" rx="7" ry="9" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
       </svg>
     );
@@ -24,13 +21,9 @@ function Icon({ slug }: { slug: string }) {
   if (slug === "reizouko") {
     return (
       <svg width="140" height="140" viewBox="0 0 140 140">
-        {/* fridge body */}
         <rect x="30" y="15" width="80" height="110" rx="8" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
-        {/* divider line */}
         <line x1="30" y1="65" x2="110" y2="65" stroke={ICON_COLOR} strokeWidth="4" />
-        {/* top handle */}
         <line x1="85" y1="35" x2="85" y2="55" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
-        {/* bottom handle */}
         <line x1="85" y1="80" x2="85" y2="105" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
       </svg>
     );
@@ -38,10 +31,8 @@ function Icon({ slug }: { slug: string }) {
   if (slug === "denki") {
     return (
       <svg width="140" height="140" viewBox="0 0 140 140">
-        {/* bulb globe */}
         <path d="M70 20 C42 20 24 42 24 62 C24 80 36 92 50 98 L50 112 L90 112 L90 98 C104 92 116 80 116 62 C116 42 98 20 70 20 Z"
           fill="none" stroke={ICON_COLOR} strokeWidth="5" strokeLinejoin="round" />
-        {/* base lines */}
         <line x1="50" y1="118" x2="90" y2="118" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
         <line x1="55" y1="126" x2="85" y2="126" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
       </svg>
@@ -68,25 +59,31 @@ function Icon({ slug }: { slug: string }) {
   if (slug === "kyukyusha") {
     return (
       <svg width="140" height="140" viewBox="0 0 140 140">
-        {/* ambulance body */}
         <rect x="10" y="50" width="110" height="60" rx="6" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
-        {/* cab roof */}
         <path d="M80 50 L80 25 L110 25 L120 50" fill="none" stroke={ICON_COLOR} strokeWidth="5" strokeLinejoin="round" />
-        {/* cross symbol */}
         <line x1="40" y1="70" x2="40" y2="90" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
         <line x1="30" y1="80" x2="50" y2="80" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
-        {/* wheels */}
         <circle cx="35" cy="116" r="10" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
         <circle cx="105" cy="116" r="10" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
       </svg>
     );
   }
-  // generic icon
   return (
     <svg width="140" height="140" viewBox="0 0 140 140">
-      <circle cx="70" cy="70" r="55" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+      <rect x="20" y="20" width="100" height="100" rx="12" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
     </svg>
   );
+}
+
+// Pick font size so the longest clause fits within 840px (≈ font-size × chars)
+function longestClauseFontSize(text: string): number {
+  const clauses = text.split(/[、。！？]/).filter((c) => c.length > 0);
+  const max = Math.max(...clauses.map((c) => c.length), 1);
+  if (max <= 8) return 70;
+  if (max <= 12) return 60;
+  if (max <= 15) return 52;
+  if (max <= 17) return 48;
+  return 44;
 }
 
 export async function GET(request: Request) {
@@ -94,6 +91,15 @@ export async function GET(request: Request) {
   const slug = searchParams.get("slug") ?? "";
   const title = searchParams.get("title") ?? "有難う図鑑";
   const catchphrase = searchParams.get("text") ?? "当たり前にあるものの、知らなかった話。";
+
+  // Fetch Noto Sans JP in TTF format (Satori requires TTF/OTF, not WOFF2)
+  // Sending a non-browser UA causes Google Fonts to respond with TTF URLs
+  const css = await fetch(
+    "https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@700&display=swap",
+    { headers: { "User-Agent": "curl/7.0" } }
+  ).then((res) => res.text());
+  const fontUrl = css.match(/src: url\(([^)]+)\)/)?.[1] ?? "";
+  const fontData = await fetch(fontUrl).then((res) => res.arrayBuffer());
 
   return new ImageResponse(
     (
@@ -106,7 +112,7 @@ export async function GET(request: Request) {
           flexDirection: "column",
           justifyContent: "space-between",
           padding: "52px 64px 48px",
-          fontFamily: "serif",
+          fontFamily: "'Noto Sans JP', serif",
           position: "relative",
         }}
       >
@@ -115,20 +121,20 @@ export async function GET(request: Request) {
           有難う図鑑
         </div>
 
-        {/* catchphrase */}
+        {/* catchphrase – font size based on longest clause to prevent mid-word wrapping */}
         <div
           style={{
             color: TEXT_DARK,
-            fontSize: catchphrase.length > 22 ? "54px" : "70px",
+            fontSize: `${longestClauseFontSize(catchphrase)}px`,
             fontWeight: "bold",
             lineHeight: "1.5",
             maxWidth: "840px",
-            wordBreak: "keep-all",
-            overflowWrap: "anywhere",
+            whiteSpace: "pre-wrap",
             display: "flex",
+            flexWrap: "wrap",
           }}
         >
-          {catchphrase}
+          {catchphrase.replace(/、/g, "、\n")}
         </div>
 
         {/* bottom: title + icon */}
@@ -145,6 +151,14 @@ export async function GET(request: Request) {
     {
       width: 1200,
       height: 630,
+      fonts: [
+        {
+          name: "Noto Sans JP",
+          data: fontData,
+          weight: 700,
+          style: "normal",
+        },
+      ],
     }
   );
 }
