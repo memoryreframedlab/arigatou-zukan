@@ -5,6 +5,7 @@ import {
   getAllSlugs,
   getRelatedArticles,
   getRandomArticles,
+  getFirstSentence,
 } from "@/lib/articles";
 import SearchBox from "@/components/SearchBox";
 import ArticleCard from "@/components/ArticleCard";
@@ -21,7 +22,8 @@ export async function generateMetadata({
   const { slug } = await params;
   const article = getArticleBySlug(slug);
   if (!article) return {};
-  const ogUrl = `/api/og?slug=${slug}`;
+  const catchphrase = getFirstSentence(slug);
+  const ogUrl = `/api/og?slug=${slug}&title=${encodeURIComponent(article.title)}&text=${encodeURIComponent(catchphrase)}`;
   return {
     title: `${article.title}｜有難う図鑑`,
     description: article.description,
@@ -49,6 +51,8 @@ export default async function ArticlePage({
   const related = getRelatedArticles(article, 2);
   const usedSlugs = [article.slug, ...related.map((a) => a.slug)];
   const recommended = getRandomArticles(usedSlugs, 1);
+  const catchphrase = getFirstSentence(slug);
+  const eyecatchUrl = `/api/og?slug=${slug}&title=${encodeURIComponent(article.title)}&text=${encodeURIComponent(catchphrase)}`;
 
   return (
     <main className="mx-auto max-w-2xl px-4 py-8">
@@ -65,7 +69,7 @@ export default async function ArticlePage({
         <div className="mt-4 w-full" style={{ aspectRatio: "1200/630" }}>
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src={`/api/og?slug=${article.slug}`}
+            src={eyecatchUrl}
             alt={article.title}
             width={1200}
             height={630}

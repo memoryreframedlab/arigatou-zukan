@@ -1,7 +1,6 @@
 import { ImageResponse } from "@vercel/og";
-import { getArticleBySlug, getFirstSentence } from "@/lib/articles";
 
-export const runtime = "nodejs";
+export const runtime = "edge";
 
 const BG = "#F5F0E8";
 const TEXT_DARK = "#2C2017";
@@ -93,10 +92,8 @@ function Icon({ slug }: { slug: string }) {
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url);
   const slug = searchParams.get("slug") ?? "";
-
-  const article = getArticleBySlug(slug);
-  const catchphrase = slug ? getFirstSentence(slug) : "当たり前にあるものの、知らなかった話。";
-  const title = article?.title ?? "有難う図鑑";
+  const title = searchParams.get("title") ?? "有難う図鑑";
+  const catchphrase = searchParams.get("text") ?? "当たり前にあるものの、知らなかった話。";
 
   return new ImageResponse(
     (
