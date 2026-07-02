@@ -1,0 +1,36 @@
+name: Scheduled Publish
+
+on:
+  schedule:
+    # 毎日 00:05 JST (= 15:05 UTC) に実行
+    # GitHub Actions のスケジュールは数分〜最大1時間遅延することがある
+    - cron: "5 15 * * *"
+  workflow_dispatch: # 手動実行も可能
+
+jobs:
+  check-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check for articles scheduled for today (JST)
+        id: check
+        run: |
+          TODAY=$(TZ=Asia/Tokyo date +%Y-%m-%d)
+          echo "Today (JST): $TODAY"
+          if grep -rl "publishedAt: $TODAY" content/articles/ 2>/dev/null | grep -q .; then
+            echo "has_scheduled=true" >> "$GITHUB_OUTPUT"
+            echo "Found article(s) scheduled for $TODAY"
+          else
+            echo "has_scheduled=false" >> "$GITHUB_OUTPUT"
+            echo "No articles scheduled for $TODAY"
+          fi
+
+      - name: Trigger Vercel Deploy
+        if: steps.check.outputs.has_scheduled == 'true'
+        run: |
+          curl -s -X POST "${{ secrets.VERCEL_DEPLOY_HOOK_URL }}" \
+            -H "Content-Type: application/json" \
+            --fail \
+            && echo "Deploy triggered successfully" \
+            || echo "Deploy trigger failed"

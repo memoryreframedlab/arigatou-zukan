@@ -19,6 +19,15 @@ export type Article = ArticleMeta & {
   contentHtml: string;
 };
 
+// Returns today's date in JST (YYYY-MM-DD). Japan is UTC+9 and has no DST.
+function todayJST(): string {
+  return new Date(Date.now() + 9 * 60 * 60 * 1000).toISOString().slice(0, 10);
+}
+
+function isPublished(publishedAt: string): boolean {
+  return Boolean(publishedAt) && publishedAt <= todayJST();
+}
+
 function readArticleFile(slug: string): { meta: ArticleMeta; content: string } | null {
   const filePath = path.join(ARTICLES_DIR, `${slug}.md`);
   if (!fs.existsSync(filePath)) return null;
@@ -44,7 +53,11 @@ export function getAllSlugs(): string[] {
   return fs
     .readdirSync(ARTICLES_DIR)
     .filter((file) => file.endsWith(".md"))
-    .map((file) => file.replace(/\.md$/, ""));
+    .map((file) => file.replace(/\.md$/, ""))
+    .filter((slug) => {
+      const result = readArticleFile(slug);
+      return result ? isPublished(result.meta.publishedAt) : false;
+    });
 }
 
 export function getAllArticleMeta(): ArticleMeta[] {
@@ -56,7 +69,7 @@ export function getAllArticleMeta(): ArticleMeta[] {
 
 export function getArticleBySlug(slug: string): Article | null {
   const result = readArticleFile(slug);
-  if (!result) return null;
+  if (!result || !isPublished(result.meta.publishedAt)) return null;
 
   const contentHtml = marked.parse(result.content, { async: false }) as string;
 
