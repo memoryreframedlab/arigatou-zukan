@@ -68,6 +68,79 @@ function Icon({ slug }: { slug: string }) {
       </svg>
     );
   }
+  if (slug === "toilet") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* tank */}
+        <rect x="38" y="15" width="64" height="38" rx="6" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* bowl */}
+        <path d="M30 53 Q30 115 70 115 Q110 115 110 53 Z" fill="none" stroke={ICON_COLOR} strokeWidth="5" strokeLinejoin="round" />
+        {/* base */}
+        <line x1="50" y1="115" x2="90" y2="115" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "sentakuki") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* body */}
+        <rect x="20" y="15" width="100" height="110" rx="8" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* drum circle */}
+        <circle cx="70" cy="82" r="32" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* inner circle */}
+        <circle cx="70" cy="82" r="12" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        {/* control panel line */}
+        <line x1="30" y1="42" x2="110" y2="42" stroke={ICON_COLOR} strokeWidth="4" />
+        {/* knob */}
+        <circle cx="50" cy="29" r="7" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+      </svg>
+    );
+  }
+  if (slug === "aircon") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* unit body */}
+        <rect x="15" y="30" width="110" height="40" rx="8" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* vent lines */}
+        <line x1="30" y1="80" x2="110" y2="80" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        {/* airflow arrows */}
+        <path d="M40 95 Q55 108 70 95" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        <path d="M70 95 Q85 108 100 95" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        {/* indicator dot */}
+        <circle cx="95" cy="50" r="5" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+      </svg>
+    );
+  }
+  if (slug === "kyutoki") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* heater body */}
+        <rect x="35" y="20" width="70" height="90" rx="8" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* pipe top */}
+        <line x1="70" y1="20" x2="70" y2="8" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
+        {/* pipe bottom */}
+        <line x1="55" y1="110" x2="55" y2="125" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
+        <line x1="85" y1="110" x2="85" y2="125" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
+        {/* flame indicator */}
+        <path d="M58 75 Q65 60 70 70 Q75 55 82 75" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "denshi-renji") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* body */}
+        <rect x="12" y="30" width="116" height="80" rx="8" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* door window */}
+        <rect x="22" y="42" width="72" height="56" rx="5" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        {/* control panel divider */}
+        <line x1="102" y1="38" x2="102" y2="102" stroke={ICON_COLOR} strokeWidth="3" />
+        {/* control buttons */}
+        <circle cx="116" cy="58" r="5" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+        <circle cx="116" cy="80" r="5" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+      </svg>
+    );
+  }
   return (
     <svg width="140" height="140" viewBox="0 0 140 140">
       <rect x="20" y="20" width="100" height="100" rx="12" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
