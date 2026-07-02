@@ -126,6 +126,71 @@ function Icon({ slug }: { slug: string }) {
       </svg>
     );
   }
+  if (slug === "toshokan") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* books side by side */}
+        <rect x="18" y="30" width="20" height="85" rx="3" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        <rect x="42" y="42" width="22" height="73" rx="3" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        <rect x="68" y="35" width="18" height="80" rx="3" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        <rect x="90" y="25" width="24" height="90" rx="3" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        {/* shelf */}
+        <line x1="10" y1="118" x2="130" y2="118" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "gakko") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* school building */}
+        <rect x="20" y="55" width="100" height="70" rx="4" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* roof/triangle */}
+        <path d="M10 55 L70 18 L130 55" fill="none" stroke={ICON_COLOR} strokeWidth="5" strokeLinejoin="round" />
+        {/* door */}
+        <rect x="55" y="95" width="30" height="30" rx="3" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        {/* windows */}
+        <rect x="30" y="68" width="22" height="18" rx="2" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+        <rect x="88" y="68" width="22" height="18" rx="2" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+        {/* bell */}
+        <circle cx="70" cy="38" r="7" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+      </svg>
+    );
+  }
+  if (slug === "internet") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* globe */}
+        <circle cx="70" cy="70" r="52" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* meridian lines */}
+        <ellipse cx="70" cy="70" rx="28" ry="52" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+        {/* equator */}
+        <line x1="18" y1="70" x2="122" y2="70" stroke={ICON_COLOR} strokeWidth="3" />
+        {/* latitude lines */}
+        <path d="M28 44 Q70 38 112 44" fill="none" stroke={ICON_COLOR} strokeWidth="2.5" />
+        <path d="M28 96 Q70 102 112 96" fill="none" stroke={ICON_COLOR} strokeWidth="2.5" />
+      </svg>
+    );
+  }
+  if (slug === "smartphone") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* phone body */}
+        <rect x="38" y="10" width="64" height="120" rx="12" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* screen */}
+        <rect x="46" y="25" width="48" height="78" rx="4" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+        {/* home button / indicator */}
+        <circle cx="70" cy="120" r="0" fill="none" stroke={ICON_COLOR} strokeWidth="0" />
+        <line x1="58" y1="116" x2="82" y2="116" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        {/* speaker */}
+        <line x1="58" y1="18" x2="82" y2="18" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        {/* app icons */}
+        <rect x="52" y="35" width="14" height="14" rx="3" fill="none" stroke={ICON_COLOR} strokeWidth="2.5" />
+        <rect x="73" y="35" width="14" height="14" rx="3" fill="none" stroke={ICON_COLOR} strokeWidth="2.5" />
+        <rect x="52" y="56" width="14" height="14" rx="3" fill="none" stroke={ICON_COLOR} strokeWidth="2.5" />
+        <rect x="73" y="56" width="14" height="14" rx="3" fill="none" stroke={ICON_COLOR} strokeWidth="2.5" />
+      </svg>
+    );
+  }
   if (slug === "megane") {
     return (
       <svg width="140" height="140" viewBox="0 0 140 140">
