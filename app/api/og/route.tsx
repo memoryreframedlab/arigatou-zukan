@@ -126,6 +126,78 @@ function Icon({ slug }: { slug: string }) {
       </svg>
     );
   }
+  if (slug === "reitoshokuhin") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* snowflake */}
+        <line x1="70" y1="18" x2="70" y2="62" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
+        <line x1="70" y1="78" x2="70" y2="122" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
+        <line x1="25" y1="70" x2="115" y2="70" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
+        <line x1="36" y1="36" x2="104" y2="104" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
+        <line x1="104" y1="36" x2="36" y2="104" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
+        <circle cx="70" cy="70" r="10" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+      </svg>
+    );
+  }
+  if (slug === "toilet-paper") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* roll body */}
+        <ellipse cx="70" cy="70" rx="45" ry="55" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* inner hole */}
+        <ellipse cx="70" cy="70" rx="18" ry="22" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        {/* paper tail */}
+        <path d="M70 125 Q60 138 50 130" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "jihanki") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* machine body */}
+        <rect x="30" y="12" width="80" height="116" rx="8" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* display window */}
+        <rect x="40" y="22" width="60" height="55" rx="4" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        {/* can icons in window */}
+        <rect x="48" y="32" width="14" height="34" rx="3" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+        <rect x="68" y="32" width="14" height="34" rx="3" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+        {/* coin slot */}
+        <rect x="90" y="85" width="14" height="4" rx="2" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+        {/* output tray */}
+        <rect x="40" y="108" width="60" height="12" rx="3" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+      </svg>
+    );
+  }
+  if (slug === "hoso-doro") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* road surface */}
+        <path d="M10 120 L50 20 L90 20 L130 120 Z" fill="none" stroke={ICON_COLOR} strokeWidth="5" strokeLinejoin="round" />
+        {/* center dashes */}
+        <line x1="70" y1="30" x2="70" y2="50" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" strokeDasharray="8 6" />
+        <line x1="70" y1="60" x2="70" y2="80" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" strokeDasharray="8 6" />
+        <line x1="70" y1="90" x2="70" y2="110" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" strokeDasharray="8 6" />
+      </svg>
+    );
+  }
+  if (slug === "tetsudo") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* train body */}
+        <rect x="25" y="30" width="90" height="70" rx="14" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* nose */}
+        <path d="M25 44 Q10 70 25 96" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* windows */}
+        <rect x="45" y="48" width="22" height="18" rx="4" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        <rect x="78" y="48" width="22" height="18" rx="4" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        {/* wheels */}
+        <circle cx="50" cy="108" r="10" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        <circle cx="90" cy="108" r="10" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        {/* rail */}
+        <line x1="10" y1="120" x2="130" y2="120" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+      </svg>
+    );
+  }
   if (slug === "gas-konro") {
     return (
       <svg width="140" height="140" viewBox="0 0 140 140">
