@@ -84,6 +84,18 @@ export function getRandomArticles(
   return shuffled.slice(0, limit);
 }
 
+export function getFirstSentence(slug: string): string {
+  const result = readArticleFile(slug);
+  if (!result) return "";
+  const firstLine = result.content
+    .split("\n")
+    .map((l) => l.trim())
+    .find((l) => l.length > 0 && !l.startsWith("#"));
+  if (!firstLine) return "";
+  const sentence = firstLine.split(/[。！？]/)[0];
+  return sentence ? sentence + "。" : firstLine;
+}
+
 export function searchArticles(query: string): ArticleMeta[] {
   const q = query.trim().toLowerCase();
   if (!q) return [];
