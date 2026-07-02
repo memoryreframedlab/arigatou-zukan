@@ -13,6 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(
+    process.env.NEXT_PUBLIC_BASE_URL ?? "http://localhost:3100"
+  ),
   title: "有難う図鑑",
   description: "今では当たり前にあるものの、知らなかった話。",
 };

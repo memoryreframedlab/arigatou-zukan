@@ -21,9 +21,19 @@ export async function generateMetadata({
   const { slug } = await params;
   const article = getArticleBySlug(slug);
   if (!article) return {};
+  const ogUrl = `/api/og?slug=${slug}`;
   return {
     title: `${article.title}｜有難う図鑑`,
     description: article.description,
+    openGraph: {
+      title: article.title,
+      description: article.description,
+      images: [{ url: ogUrl, width: 1200, height: 630 }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      images: [ogUrl],
+    },
   };
 }
 
