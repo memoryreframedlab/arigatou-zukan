@@ -111,7 +111,7 @@ export async function GET(request: Request) {
         }}
       >
         {/* logo */}
-        <div style={{ color: LOGO_COLOR, fontSize: "22px", letterSpacing: "0.1em", display: "flex" }}>
+        <div style={{ color: LOGO_COLOR, fontSize: "30px", letterSpacing: "0.1em", display: "flex" }}>
           有難う図鑑
         </div>
 
@@ -119,7 +119,7 @@ export async function GET(request: Request) {
         <div
           style={{
             color: TEXT_DARK,
-            fontSize: catchphrase.length > 22 ? "50px" : "64px",
+            fontSize: catchphrase.length > 22 ? "54px" : "70px",
             fontWeight: "bold",
             lineHeight: "1.5",
             maxWidth: "840px",
@@ -133,7 +133,7 @@ export async function GET(request: Request) {
 
         {/* bottom: title + icon */}
         <div style={{ display: "flex", alignItems: "flex-end", justifyContent: "space-between" }}>
-          <div style={{ color: LOGO_COLOR, fontSize: "20px", maxWidth: "680px", lineHeight: "1.5", display: "flex" }}>
+          <div style={{ color: LOGO_COLOR, fontSize: "24px", maxWidth: "680px", lineHeight: "1.5", display: "flex" }}>
             {title}
           </div>
           <div style={{ display: "flex", opacity: 0.9 }}>
