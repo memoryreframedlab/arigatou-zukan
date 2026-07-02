@@ -126,6 +126,90 @@ function Icon({ slug }: { slug: string }) {
       </svg>
     );
   }
+  if (slug === "erebeta") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* shaft */}
+        <rect x="40" y="10" width="60" height="120" rx="6" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* car */}
+        <rect x="48" y="60" width="44" height="45" rx="4" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        {/* door split */}
+        <line x1="70" y1="65" x2="70" y2="100" stroke={ICON_COLOR} strokeWidth="3" />
+        {/* up/down arrows */}
+        <path d="M68 25 L70 18 L72 25" fill="none" stroke={ICON_COLOR} strokeWidth="3" strokeLinejoin="round" />
+        <path d="M68 45 L70 52 L72 45" fill="none" stroke={ICON_COLOR} strokeWidth="3" strokeLinejoin="round" />
+      </svg>
+    );
+  }
+  if (slug === "shobo") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* fire truck body */}
+        <rect x="10" y="55" width="105" height="55" rx="8" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* cab */}
+        <path d="M95 55 L95 35 L118 35 L118 55" fill="none" stroke={ICON_COLOR} strokeWidth="5" strokeLinejoin="round" />
+        {/* ladder on top */}
+        <line x1="15" y1="52" x2="92" y2="52" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        <line x1="15" y1="44" x2="92" y2="44" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        <line x1="30" y1="44" x2="30" y2="52" stroke={ICON_COLOR} strokeWidth="3" />
+        <line x1="55" y1="44" x2="55" y2="52" stroke={ICON_COLOR} strokeWidth="3" />
+        <line x1="78" y1="44" x2="78" y2="52" stroke={ICON_COLOR} strokeWidth="3" />
+        {/* wheels */}
+        <circle cx="38" cy="116" r="12" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        <circle cx="100" cy="116" r="12" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+      </svg>
+    );
+  }
+  if (slug === "gomi") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* bin body */}
+        <path d="M35 45 L45 125 L95 125 L105 45 Z" fill="none" stroke={ICON_COLOR} strokeWidth="5" strokeLinejoin="round" />
+        {/* lid */}
+        <rect x="25" y="32" width="90" height="16" rx="5" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* handle on lid */}
+        <path d="M57 32 Q70 18 83 32" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        {/* lines on body */}
+        <line x1="56" y1="68" x2="52" y2="108" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        <line x1="70" y1="68" x2="70" y2="108" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        <line x1="84" y1="68" x2="88" y2="108" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "konbini") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* store front */}
+        <rect x="15" y="45" width="110" height="80" rx="4" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* roof/sign */}
+        <rect x="10" y="28" width="120" height="20" rx="4" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        {/* door */}
+        <rect x="52" y="85" width="36" height="40" rx="2" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        {/* window left */}
+        <rect x="22" y="58" width="22" height="22" rx="2" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+        {/* window right */}
+        <rect x="96" y="58" width="22" height="22" rx="2" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+        {/* clock/24h symbol */}
+        <circle cx="70" cy="38" r="5" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+      </svg>
+    );
+  }
+  if (slug === "takuhaibin") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* box */}
+        <rect x="25" y="45" width="90" height="75" rx="6" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* box flaps top */}
+        <path d="M25 45 L55 30 L85 45" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinejoin="round" />
+        <path d="M115 45 L85 30 L85 45" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinejoin="round" />
+        {/* tape line */}
+        <line x1="70" y1="45" x2="70" y2="120" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        {/* label */}
+        <rect x="40" y="75" width="50" height="28" rx="3" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+        <line x1="47" y1="88" x2="83" y2="88" stroke={ICON_COLOR} strokeWidth="2.5" strokeLinecap="round" />
+      </svg>
+    );
+  }
   if (slug === "reitoshokuhin") {
     return (
       <svg width="140" height="140" viewBox="0 0 140 140">
