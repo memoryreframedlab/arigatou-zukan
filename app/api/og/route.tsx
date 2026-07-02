@@ -126,6 +126,101 @@ function Icon({ slug }: { slug: string }) {
       </svg>
     );
   }
+  if (slug === "megane") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* left lens */}
+        <circle cx="42" cy="70" r="28" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* right lens */}
+        <circle cx="98" cy="70" r="28" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* bridge */}
+        <line x1="70" y1="70" x2="70" y2="70" stroke={ICON_COLOR} strokeWidth="0" />
+        <path d="M70 65 Q70 62 70 65" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        <line x1="70" y1="64" x2="70" y2="76" stroke={ICON_COLOR} strokeWidth="0" />
+        {/* nose bridge */}
+        <path d="M62 66 Q70 58 78 66" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        {/* left arm */}
+        <line x1="14" y1="62" x2="15" y2="70" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        {/* right arm */}
+        <line x1="126" y1="62" x2="125" y2="70" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "yakkyoku") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* mortar */}
+        <path d="M35 95 Q35 125 70 125 Q105 125 105 95 L105 75 L35 75 Z" fill="none" stroke={ICON_COLOR} strokeWidth="5" strokeLinejoin="round" />
+        {/* mortar rim */}
+        <line x1="28" y1="75" x2="112" y2="75" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
+        {/* pestle */}
+        <line x1="70" y1="30" x2="70" y2="78" stroke={ICON_COLOR} strokeWidth="6" strokeLinecap="round" />
+        <ellipse cx="70" cy="26" rx="12" ry="6" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        {/* cross symbol */}
+        <line x1="55" y1="50" x2="85" y2="50" stroke={ICON_COLOR} strokeWidth="0" />
+      </svg>
+    );
+  }
+  if (slug === "ginko") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* building */}
+        <rect x="20" y="55" width="100" height="70" rx="4" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* columns */}
+        <line x1="40" y1="55" x2="40" y2="125" stroke={ICON_COLOR} strokeWidth="4" />
+        <line x1="70" y1="55" x2="70" y2="125" stroke={ICON_COLOR} strokeWidth="4" />
+        <line x1="100" y1="55" x2="100" y2="125" stroke={ICON_COLOR} strokeWidth="4" />
+        {/* roof pediment */}
+        <path d="M10 55 L70 20 L130 55" fill="none" stroke={ICON_COLOR} strokeWidth="5" strokeLinejoin="round" />
+        {/* base */}
+        <line x1="10" y1="128" x2="130" y2="128" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "tokei") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* clock face */}
+        <circle cx="70" cy="75" r="52" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* 12 o'clock mark */}
+        <line x1="70" y1="27" x2="70" y2="38" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        {/* 3 o'clock mark */}
+        <line x1="118" y1="75" x2="107" y2="75" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        {/* 6 o'clock mark */}
+        <line x1="70" y1="123" x2="70" y2="112" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        {/* 9 o'clock mark */}
+        <line x1="22" y1="75" x2="33" y2="75" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        {/* hour hand */}
+        <line x1="70" y1="75" x2="70" y2="50" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
+        {/* minute hand */}
+        <line x1="70" y1="75" x2="95" y2="75" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        {/* crown */}
+        <rect x="60" y="16" width="20" height="8" rx="3" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+      </svg>
+    );
+  }
+  if (slug === "karenda") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* calendar body */}
+        <rect x="15" y="35" width="110" height="90" rx="6" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* header */}
+        <line x1="15" y1="60" x2="125" y2="60" stroke={ICON_COLOR} strokeWidth="4" />
+        {/* rings top */}
+        <line x1="45" y1="28" x2="45" y2="44" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
+        <line x1="95" y1="28" x2="95" y2="44" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
+        {/* date grid */}
+        <circle cx="38" cy="78" r="4" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+        <circle cx="60" cy="78" r="4" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+        <circle cx="82" cy="78" r="4" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+        <circle cx="104" cy="78" r="4" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+        <circle cx="38" cy="100" r="4" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+        <circle cx="60" cy="100" r="4" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+        {/* highlight circle */}
+        <circle cx="82" cy="100" r="9" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+      </svg>
+    );
+  }
   if (slug === "erebeta") {
     return (
       <svg width="140" height="140" viewBox="0 0 140 140">
