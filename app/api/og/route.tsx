@@ -126,6 +126,82 @@ function Icon({ slug }: { slug: string }) {
       </svg>
     );
   }
+  if (slug === "gas-konro") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* stove top */}
+        <rect x="15" y="55" width="110" height="60" rx="8" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* burner left */}
+        <circle cx="47" cy="85" r="16" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        <circle cx="47" cy="85" r="6" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+        {/* burner right */}
+        <circle cx="93" cy="85" r="16" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        <circle cx="93" cy="85" r="6" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+        {/* flame */}
+        <path d="M40 52 Q47 35 54 52" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        <path d="M86 52 Q93 35 100 52" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "mado-garasu") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* window frame */}
+        <rect x="20" y="20" width="100" height="100" rx="6" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* center divider vertical */}
+        <line x1="70" y1="20" x2="70" y2="120" stroke={ICON_COLOR} strokeWidth="4" />
+        {/* center divider horizontal */}
+        <line x1="20" y1="70" x2="120" y2="70" stroke={ICON_COLOR} strokeWidth="4" />
+        {/* light reflection lines */}
+        <line x1="30" y1="30" x2="55" y2="55" stroke={ICON_COLOR} strokeWidth="2.5" strokeLinecap="round" />
+        <line x1="38" y1="30" x2="55" y2="47" stroke={ICON_COLOR} strokeWidth="2" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "sekken") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* soap bar */}
+        <rect x="25" y="55" width="90" height="55" rx="14" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* label line */}
+        <line x1="42" y1="82" x2="98" y2="82" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        {/* bubbles */}
+        <circle cx="52" cy="38" r="9" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        <circle cx="75" cy="28" r="12" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        <circle cx="98" cy="36" r="8" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+      </svg>
+    );
+  }
+  if (slug === "haburashi") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* handle */}
+        <rect x="55" y="75" width="20" height="55" rx="8" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* head */}
+        <rect x="35" y="20" width="60" height="58" rx="8" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* bristle rows */}
+        <line x1="48" y1="35" x2="48" y2="68" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" strokeDasharray="6 4" />
+        <line x1="65" y1="35" x2="65" y2="68" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" strokeDasharray="6 4" />
+        <line x1="82" y1="35" x2="82" y2="68" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" strokeDasharray="6 4" />
+      </svg>
+    );
+  }
+  if (slug === "kanzume") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        {/* can body */}
+        <rect x="30" y="40" width="80" height="80" rx="6" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        {/* top lid */}
+        <rect x="25" y="30" width="90" height="16" rx="5" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        {/* pull tab */}
+        <path d="M70 22 L80 30" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        <circle cx="82" cy="22" r="5" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+        {/* label line */}
+        <line x1="45" y1="95" x2="95" y2="95" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        <line x1="45" y1="108" x2="95" y2="108" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+      </svg>
+    );
+  }
   if (slug === "denshi-renji") {
     return (
       <svg width="140" height="140" viewBox="0 0 140 140">
