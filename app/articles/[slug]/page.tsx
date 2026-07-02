@@ -62,12 +62,16 @@ export default async function ArticlePage({
           公開日：{article.publishedAt}
         </p>
 
-        {article.thumbnail ? (
-          <div
-            className="mt-4 aspect-video w-full rounded-md bg-stone-100 bg-cover bg-center"
-            style={{ backgroundImage: `url(${article.thumbnail})` }}
+        <div className="mt-4 w-full" style={{ aspectRatio: "1200/630" }}>
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src={`/api/og?slug=${article.slug}`}
+            alt={article.title}
+            width={1200}
+            height={630}
+            className="w-full h-full rounded-md object-cover"
           />
-        ) : null}
+        </div>
 
         {article.description ? (
           <p className="mt-4 text-stone-700 leading-relaxed">
