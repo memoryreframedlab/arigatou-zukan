@@ -32,5 +32,4 @@ jobs:
           curl -s -X POST "${{ secrets.VERCEL_DEPLOY_HOOK_URL }}" \
             -H "Content-Type: application/json" \
             --fail \
-            && echo "Deploy triggered successfully" \
-            || echo "Deploy trigger failed"
+            && echo "Deploy triggered successfully"
