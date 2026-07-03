@@ -18,7 +18,7 @@ jobs:
         run: |
           TODAY=$(TZ=Asia/Tokyo date +%Y-%m-%d)
           echo "Today (JST): $TODAY"
-          if grep -rl "publishedAt: $TODAY" content/articles/ 2>/dev/null | grep -q .; then
+          if grep -rl "publishedAt:.*$TODAY" content/articles/ 2>/dev/null | grep -q .; then
             echo "has_scheduled=true" >> "$GITHUB_OUTPUT"
             echo "Found article(s) scheduled for $TODAY"
           else
