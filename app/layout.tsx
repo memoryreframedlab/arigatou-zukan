@@ -12,17 +12,13 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-const adSenseVerification = process.env.NEXT_PUBLIC_ADSENSE_VERIFICATION;
-
 export const metadata: Metadata = {
   metadataBase: new URL(
     process.env.NEXT_PUBLIC_BASE_URL ?? "http://localhost:3100"
   ),
   title: "有難う図鑑",
   description: "今では当たり前にあるものの、知らなかった話。",
-  ...(adSenseVerification && {
-    other: { "google-adsense-account": adSenseVerification },
-  }),
+  other: { "google-adsense-account": "ca-pub-4146788733785651" },
 };
 
 export default function RootLayout({
