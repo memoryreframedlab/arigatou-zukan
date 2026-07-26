@@ -521,15 +521,341 @@ function Icon({ slug }: { slug: string }) {
   if (slug === "denshi-renji") {
     return (
       <svg width="140" height="140" viewBox="0 0 140 140">
-        {/* body */}
         <rect x="12" y="30" width="116" height="80" rx="8" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
-        {/* door window */}
         <rect x="22" y="42" width="72" height="56" rx="5" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
-        {/* control panel divider */}
         <line x1="102" y1="38" x2="102" y2="102" stroke={ICON_COLOR} strokeWidth="3" />
-        {/* control buttons */}
         <circle cx="116" cy="58" r="5" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
         <circle cx="116" cy="80" r="5" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+      </svg>
+    );
+  }
+  if (slug === "shinbun") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <rect x="18" y="25" width="104" height="90" rx="5" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        <line x1="32" y1="50" x2="108" y2="50" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        <line x1="32" y1="68" x2="108" y2="68" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        <line x1="32" y1="82" x2="80" y2="82" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        <line x1="32" y1="96" x2="90" y2="96" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        <rect x="32" y="30" width="42" height="14" rx="2" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+      </svg>
+    );
+  }
+  if (slug === "terebi") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <rect x="15" y="35" width="110" height="75" rx="8" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        <rect x="28" y="46" width="84" height="52" rx="4" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        <line x1="50" y1="112" x2="90" y2="112" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
+        <line x1="70" y1="112" x2="70" y2="125" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        <line x1="50" y1="125" x2="90" y2="125" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "jidosha") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <rect x="10" y="60" width="120" height="45" rx="8" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        <path d="M30 60 L45 35 L95 35 L115 60" fill="none" stroke={ICON_COLOR} strokeWidth="5" strokeLinejoin="round" />
+        <circle cx="38" cy="112" r="12" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        <circle cx="102" cy="112" r="12" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        <rect x="50" y="42" width="35" height="18" rx="3" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+      </svg>
+    );
+  }
+  if (slug === "hikoki") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <path d="M20 75 L120 75" fill="none" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
+        <path d="M50 75 L70 30 L90 75" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinejoin="round" />
+        <path d="M30 75 L20 100 L55 90" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinejoin="round" />
+        <path d="M100 75 L120 65" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        <circle cx="118" cy="75" r="5" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+      </svg>
+    );
+  }
+  if (slug === "jitensha") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <circle cx="38" cy="98" r="28" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        <circle cx="102" cy="98" r="28" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        <path d="M38 98 L70 45 L102 98" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinejoin="round" />
+        <line x1="70" y1="45" x2="55" y2="45" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        <path d="M55 45 Q48 35 55 28 Q65 20 72 28" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "kagi") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <circle cx="50" cy="58" r="28" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        <circle cx="50" cy="58" r="12" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        <line x1="75" y1="75" x2="125" y2="125" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
+        <line x1="105" y1="108" x2="115" y2="98" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        <line x1="118" y1="118" x2="128" y2="108" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "futon") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <rect x="20" y="55" width="100" height="60" rx="12" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        <line x1="20" y1="85" x2="120" y2="85" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        <circle cx="70" cy="40" r="22" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+      </svg>
+    );
+  }
+  if (slug === "kasa") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <path d="M70 20 Q20 60 20 80 L120 80 Q120 60 70 20 Z" fill="none" stroke={ICON_COLOR} strokeWidth="5" strokeLinejoin="round" />
+        <line x1="70" y1="80" x2="70" y2="120" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
+        <path d="M70 120 Q60 128 55 122" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        <line x1="40" y1="80" x2="70" y2="20" stroke={ICON_COLOR} strokeWidth="2" strokeLinecap="round" />
+        <line x1="55" y1="80" x2="70" y2="20" stroke={ICON_COLOR} strokeWidth="2" strokeLinecap="round" />
+        <line x1="85" y1="80" x2="70" y2="20" stroke={ICON_COLOR} strokeWidth="2" strokeLinecap="round" />
+        <line x1="100" y1="80" x2="70" y2="20" stroke={ICON_COLOR} strokeWidth="2" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "denchi") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <rect x="35" y="40" width="70" height="85" rx="8" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        <rect x="52" y="28" width="36" height="15" rx="4" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        <line x1="70" y1="60" x2="70" y2="80" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
+        <line x1="60" y1="70" x2="80" y2="70" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "sato") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <path d="M30 110 L30 50 Q30 30 70 30 Q110 30 110 50 L110 110 Z" fill="none" stroke={ICON_COLOR} strokeWidth="5" strokeLinejoin="round" />
+        <line x1="30" y1="80" x2="110" y2="80" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" strokeDasharray="6 4" />
+        <path d="M50 30 Q70 18 90 30" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "pan") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <path d="M25 90 Q25 50 70 42 Q115 50 115 90 L115 110 L25 110 Z" fill="none" stroke={ICON_COLOR} strokeWidth="5" strokeLinejoin="round" />
+        <line x1="25" y1="110" x2="115" y2="110" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        <path d="M50 42 Q70 28 90 42" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        <line x1="55" y1="75" x2="85" y2="75" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "gyunyu") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <path d="M50 30 L35 120 L105 120 L90 30 Z" fill="none" stroke={ICON_COLOR} strokeWidth="5" strokeLinejoin="round" />
+        <line x1="48" y1="65" x2="92" y2="65" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        <path d="M90 45 Q110 45 108 60 Q106 72 90 68" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        <rect x="55" y="20" width="30" height="12" rx="4" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+      </svg>
+    );
+  }
+  if (slug === "ryokucha") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <path d="M30 75 Q30 115 70 115 Q110 115 110 75 L100 50 L40 50 Z" fill="none" stroke={ICON_COLOR} strokeWidth="5" strokeLinejoin="round" />
+        <path d="M100 60 Q125 55 118 38 Q110 22 95 32" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        <path d="M70 50 Q70 30 55 22" fill="none" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        <path d="M70 50 Q80 30 95 26" fill="none" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "kohi") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <path d="M30 60 L38 115 L102 115 L110 60 Z" fill="none" stroke={ICON_COLOR} strokeWidth="5" strokeLinejoin="round" />
+        <path d="M110 75 Q132 75 128 92 Q124 108 110 100" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        <line x1="25" y1="60" x2="115" y2="60" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        <path d="M55 45 Q58 32 52 22" fill="none" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        <path d="M70 48 Q73 35 67 25" fill="none" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        <path d="M85 45 Q88 32 82 22" fill="none" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "kamera") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <rect x="15" y="45" width="110" height="75" rx="8" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        <path d="M50 45 L58 28 L82 28 L90 45" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinejoin="round" />
+        <circle cx="70" cy="85" r="24" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        <circle cx="70" cy="85" r="12" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+        <circle cx="108" cy="62" r="5" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+      </svg>
+    );
+  }
+  if (slug === "rajio") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <rect x="18" y="50" width="104" height="70" rx="8" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        <circle cx="55" cy="90" r="20" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        <circle cx="55" cy="90" r="8" fill="none" stroke={ICON_COLOR} strokeWidth="3" />
+        <line x1="90" y1="72" x2="110" y2="72" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        <line x1="90" y1="84" x2="108" y2="84" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        <line x1="90" y1="96" x2="110" y2="96" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        <path d="M40 38 Q70 22 100 38" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "seifuku") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <path d="M50 25 L30 50 L20 120 L120 120 L110 50 L90 25" fill="none" stroke={ICON_COLOR} strokeWidth="5" strokeLinejoin="round" />
+        <path d="M50 25 Q70 38 90 25" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        <path d="M50 25 L60 50 L70 38 L80 50 L90 25" fill="none" stroke={ICON_COLOR} strokeWidth="3" strokeLinejoin="round" />
+        <line x1="70" y1="38" x2="70" y2="120" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" strokeDasharray="5 4" />
+      </svg>
+    );
+  }
+  if (slug === "meishi") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <rect x="15" y="40" width="110" height="65" rx="6" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        <line x1="30" y1="65" x2="110" y2="65" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        <line x1="30" y1="80" x2="80" y2="80" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        <line x1="30" y1="92" x2="65" y2="92" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        <line x1="30" y1="52" x2="55" y2="52" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "hoken") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <path d="M70 18 Q30 28 20 60 Q18 100 70 122 Q122 100 120 60 Q110 28 70 18 Z" fill="none" stroke={ICON_COLOR} strokeWidth="5" strokeLinejoin="round" />
+        <line x1="70" y1="55" x2="70" y2="85" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
+        <line x1="55" y1="70" x2="85" y2="70" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "koban") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <rect x="25" y="45" width="90" height="75" rx="6" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        <path d="M25 60 L70 25 L115 60" fill="none" stroke={ICON_COLOR} strokeWidth="5" strokeLinejoin="round" />
+        <rect x="52" y="88" width="36" height="32" rx="4" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        <line x1="70" y1="88" x2="70" y2="120" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "sento") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <rect x="15" y="75" width="110" height="45" rx="8" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        <path d="M35 75 Q35 45 70 40 Q105 45 105 75" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        <path d="M50 38 Q55 22 50 12" fill="none" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        <path d="M70 35 Q75 19 70 9" fill="none" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        <path d="M90 38 Q95 22 90 12" fill="none" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "tatami") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <rect x="15" y="50" width="110" height="70" rx="6" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        <line x1="15" y1="85" x2="125" y2="85" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        <line x1="70" y1="50" x2="70" y2="120" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        <line x1="20" y1="55" x2="65" y2="55" stroke={ICON_COLOR} strokeWidth="2" strokeLinecap="round" strokeDasharray="4 3" />
+        <line x1="75" y1="55" x2="120" y2="55" stroke={ICON_COLOR} strokeWidth="2" strokeLinecap="round" strokeDasharray="4 3" />
+        <line x1="20" y1="115" x2="65" y2="115" stroke={ICON_COLOR} strokeWidth="2" strokeLinecap="round" strokeDasharray="4 3" />
+        <line x1="75" y1="115" x2="120" y2="115" stroke={ICON_COLOR} strokeWidth="2" strokeLinecap="round" strokeDasharray="4 3" />
+      </svg>
+    );
+  }
+  if (slug === "enpitsu") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <path d="M50 15 L90 15 L90 110 L70 128 L50 110 Z" fill="none" stroke={ICON_COLOR} strokeWidth="5" strokeLinejoin="round" />
+        <line x1="50" y1="110" x2="90" y2="110" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        <line x1="50" y1="30" x2="90" y2="30" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        <line x1="50" y1="42" x2="90" y2="42" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "kagami") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <ellipse cx="70" cy="58" rx="40" ry="45" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        <rect x="55" y="100" width="30" height="30" rx="4" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        <line x1="55" y1="100" x2="48" y2="130" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        <line x1="85" y1="100" x2="92" y2="130" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        <line x1="42" y1="130" x2="98" y2="130" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "denwa") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <path d="M35 25 Q25 25 22 38 L18 62 Q16 75 28 80 Q42 88 58 95 Q72 100 88 98 Q102 96 112 88 Q122 80 118 68 L114 52 Q110 40 98 42 L80 48 Q72 52 72 60 Q72 68 80 72 Q70 76 62 68 Q54 60 58 50 Q62 42 58 36 Q52 28 35 25 Z" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinejoin="round" />
+      </svg>
+    );
+  }
+  if (slug === "purasu") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <path d="M35 35 L45 105 L95 105 L105 35 Z" fill="none" stroke={ICON_COLOR} strokeWidth="5" strokeLinejoin="round" />
+        <line x1="30" y1="35" x2="110" y2="35" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        <path d="M52 35 L50 22 L90 22 L88 35" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinejoin="round" />
+        <line x1="55" y1="60" x2="85" y2="60" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" strokeDasharray="5 4" />
+        <line x1="57" y1="80" x2="83" y2="80" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" strokeDasharray="5 4" />
+      </svg>
+    );
+  }
+  if (slug === "umi-yu") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <path d="M15 90 Q35 75 55 90 Q75 105 95 90 Q115 75 125 90" fill="none" stroke={ICON_COLOR} strokeWidth="5" strokeLinecap="round" />
+        <path d="M15 108 Q35 93 55 108 Q75 123 95 108 Q115 93 125 108" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        <circle cx="70" cy="45" r="18" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        <line x1="70" y1="63" x2="70" y2="75" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        <line x1="50" y1="55" x2="35" y2="65" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        <line x1="90" y1="55" x2="105" y2="65" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "undokai") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <circle cx="70" cy="70" r="50" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        <path d="M70 20 L70 40 M100 30 L88 48 M120 55 L102 60 M120 85 L102 80 M100 110 L88 92 M70 120 L70 100 M40 110 L52 92 M20 85 L38 80 M20 55 L38 60 M40 30 L52 48" fill="none" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+        <circle cx="70" cy="70" r="12" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+      </svg>
+    );
+  }
+  if (slug === "hanko") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <rect x="45" y="15" width="50" height="85" rx="8" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        <rect x="38" y="95" width="64" height="30" rx="5" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        <line x1="45" y1="100" x2="95" y2="100" stroke={ICON_COLOR} strokeWidth="3" />
+        <line x1="60" y1="110" x2="80" y2="110" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        <line x1="58" y1="120" x2="82" y2="120" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "furoshiki") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <path d="M70 15 Q105 40 115 70 Q125 100 95 115 Q70 125 45 115 Q15 100 25 70 Q35 40 70 15 Z" fill="none" stroke={ICON_COLOR} strokeWidth="5" strokeLinejoin="round" />
+        <path d="M58 15 Q45 8 40 18" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        <path d="M82 15 Q95 8 100 18" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
+        <path d="M50 70 Q70 55 90 70" fill="none" stroke={ICON_COLOR} strokeWidth="3" strokeLinecap="round" />
+      </svg>
+    );
+  }
+  if (slug === "geta") {
+    return (
+      <svg width="140" height="140" viewBox="0 0 140 140">
+        <rect x="20" y="55" width="100" height="28" rx="8" fill="none" stroke={ICON_COLOR} strokeWidth="5" />
+        <rect x="35" y="50" width="30" height="12" rx="4" fill="none" stroke={ICON_COLOR} strokeWidth="4" />
+        <line x1="40" y1="83" x2="40" y2="115" stroke={ICON_COLOR} strokeWidth="6" strokeLinecap="round" />
+        <line x1="100" y1="83" x2="100" y2="115" stroke={ICON_COLOR} strokeWidth="6" strokeLinecap="round" />
+        <path d="M55 45 Q70 28 85 45" fill="none" stroke={ICON_COLOR} strokeWidth="4" strokeLinecap="round" />
       </svg>
     );
   }
