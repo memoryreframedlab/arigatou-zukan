@@ -42,9 +42,12 @@ export default function RootLayout({
       </head>
       <body className="min-h-full flex flex-col bg-stone-50 text-stone-900">
         <header className="border-b border-stone-200 bg-white">
-          <div className="mx-auto max-w-2xl px-4 py-3">
+          <div className="mx-auto max-w-2xl px-4 py-3 flex items-center gap-6">
             <a href="/" className="text-lg font-bold tracking-tight">
               有難う図鑑
+            </a>
+            <a href="/categories" className="text-sm text-stone-500 hover:text-stone-900 hover:underline">
+              カテゴリ
             </a>
           </div>
         </header>
