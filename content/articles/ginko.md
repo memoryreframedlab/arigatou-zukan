@@ -6,6 +6,7 @@ updatedAt: "2026-07-25"
 description: "口座にお金を預ければ安全に保管される。この仕組みが登場する前、お金の管理は個人の責任だった。"
 thumbnail: ""
 relatedSlugs: ["takuhaibin", "konbini"]
+category: "お金・社会制度"
 ---
 
 近代的な銀行が日本に登場したのは、明治時代のことだ。

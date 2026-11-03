@@ -6,6 +6,7 @@ updatedAt: "2026-10-19"
 description: "ウールのコートを一枚羽織れば外出できる。その当たり前の防寒は、西洋式衣服が入ってくる前の着物の工夫とは全く別の発想から来ていた。"
 thumbnail: ""
 relatedSlugs: ["nekutai", "seifuku", "kutsu"]
+category: "住まい・暮らし"
 ---
 
 10月も後半になると、コートを引っ張り出す季節になる。

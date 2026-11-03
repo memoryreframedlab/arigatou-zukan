@@ -6,6 +6,7 @@ updatedAt: "2027-01-26"
 description: "パリッとした皮に包まれた餃子は、中国から伝わって日本独自に進化した料理だ。中国の水餃子と異なる「焼き餃子」が日本の家庭料理になった歴史。"
 thumbnail: ""
 relatedSlugs: ["nabe", "shoyu", "gaishoku"]
+category: "食べ物・食文化"
 ---
 
 フライパンに並べて、蓋をする。

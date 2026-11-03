@@ -6,6 +6,7 @@ updatedAt: "2026-09-11"
 description: "コンビニで手軽に買える弁当は、日本独自の食文化だ。しかし弁当という概念が定着する前、外出先での食事はどんな形だったのか。"
 thumbnail: ""
 relatedSlugs: ["reizoko", "daidokoro"]
+category: "食べ物・食文化"
 ---
 
 コンビニのレジ前に並んだカラフルな弁当は、今や日本の食文化の象徴だ。

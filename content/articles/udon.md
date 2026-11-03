@@ -6,6 +6,7 @@ updatedAt: "2027-01-27"
 description: "もちもちとした太麺のうどんは、地域によって出汁・太さ・食感が異なる。中国から伝わった製麺技術が日本各地で独自の進化を遂げた、麺文化の歴史。"
 thumbnail: ""
 relatedSlugs: ["nabe", "shoyu", "hashi"]
+category: "食べ物・食文化"
 ---
 
 白い太麺が、透き通った出汁に浮かぶ。

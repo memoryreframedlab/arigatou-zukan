@@ -6,6 +6,7 @@ updatedAt: "2026-12-31"
 description: "大みそかの夜にそばを食べる。この習慣は江戸時代に生まれ、縁起担ぎと地域の食文化が融合して全国に広まった年越しの儀式だ。"
 thumbnail: ""
 relatedSlugs: ["osechi", "joya", "kadomatsu"]
+category: "食べ物・食文化"
 ---
 
 12月31日の夜、年越しそばを食べる。

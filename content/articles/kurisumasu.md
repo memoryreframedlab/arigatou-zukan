@@ -6,6 +6,7 @@ updatedAt: "2026-12-25"
 description: "ツリーを飾り、プレゼントを贈る。日本のクリスマスは宗教的な祭日とは別の意味で定着した、外来文化の変容の物語だ。"
 thumbnail: ""
 relatedSlugs: ["keiki", "halloween", "nengajo"]
+category: "年中行事・伝統"
 ---
 
 12月25日、街がイルミネーションで輝いている。

@@ -6,6 +6,7 @@ updatedAt: "2026-08-10"
 description: "料理に砂糖を使うのは当たり前だ。しかしかつて砂糖は、戦国武将が外交に使う貴重品だった。"
 thumbnail: ""
 relatedSlugs: ["kanzume", "pan"]
+category: "食べ物・食文化"
 ---
 
 砂糖が日本の庶民に広く普及したのは、江戸時代後期から明治にかけてのことだ。

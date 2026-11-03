@@ -6,6 +6,7 @@ updatedAt: "2026-08-01"
 description: "毎朝ポストに届く新聞。その前の時代、ニュースは叫びながら売り歩く人が届けていた。"
 thumbnail: ""
 relatedSlugs: ["terebi", "rajio"]
+category: "教育・文化"
 ---
 
 近代的な新聞が日本に登場したのは、明治時代のことだ。

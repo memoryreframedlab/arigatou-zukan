@@ -6,6 +6,7 @@ updatedAt: "2026-09-08"
 description: "東京の地下を走る路線は今や300km以上。しかし地下鉄が生まれる前、都市の人々は地上だけで移動していた。"
 thumbnail: ""
 relatedSlugs: ["kisha", "jidosha"]
+category: "交通・インフラ"
 ---
 
 東京の地下には、13路線・300km以上の地下鉄が走っている。

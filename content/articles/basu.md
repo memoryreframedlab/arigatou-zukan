@@ -6,6 +6,7 @@ updatedAt: "2026-11-19"
 description: "停留所に並んでバスを待つ。この日常は、人が都市で大量に移動するという近代の課題に応えた答えの一つだった。"
 thumbnail: ""
 relatedSlugs: ["tetsudo", "jidosha", "shingo"]
+category: "交通・インフラ"
 ---
 
 バス停でスマートフォンの乗換案内を見る。

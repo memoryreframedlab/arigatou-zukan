@@ -6,6 +6,7 @@ updatedAt: "2026-08-16"
 description: "音楽や声が空中から届く。その不思議な体験が初めて日本に登場したのは、1925年のことだ。"
 thumbnail: ""
 relatedSlugs: ["terebi", "internet"]
+category: "メディア・エンタメ"
 ---
 
 日本でラジオ放送が始まったのは、1925年（大正14年）のことだ。

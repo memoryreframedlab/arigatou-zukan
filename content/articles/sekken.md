@@ -6,6 +6,7 @@ updatedAt: "2026-07-10"
 description: "手に泡立てて体を洗う。その当たり前の前には、灰や植物を使って汚れを落とす知恵があった。"
 thumbnail: ""
 relatedSlugs: ["haburashi", "toilet"]
+category: "住まい・暮らし"
 ---
 
 石鹸が一般家庭に広まったのは、日本では明治時代以降のことだ。

@@ -6,6 +6,7 @@ updatedAt: "2026-12-27"
 description: "重箱に詰められたおせち料理には、保存食の知恵と縁起担ぎが詰まっている。台所を休ませるための料理という発想が生まれた歴史。"
 thumbnail: ""
 relatedSlugs: ["nengajo", "shoyu", "miso"]
+category: "食べ物・食文化"
 ---
 
 年が明けると、重箱を開ける。

@@ -6,6 +6,7 @@ updatedAt: "2026-07-16"
 description: "雨が降っても泥だらけにならない道路は当たり前ではなかった。日本の道路舗装率が高まったのは戦後のことだ。"
 thumbnail: ""
 relatedSlugs: ["tetsudo", "jihanki"]
+category: "交通・インフラ"
 ---
 
 日本の道路が舗装されたのは、多くの区間で戦後以降のことだ。

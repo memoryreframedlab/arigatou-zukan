@@ -6,6 +6,7 @@ updatedAt: "2026-12-01"
 description: "洗濯機に入れる液体洗剤は、石油から生まれた化学の産物だ。泡立ちが良く、冷水でも溶ける合成洗剤が登場するまで、洗濯は体力仕事だった。"
 thumbnail: ""
 relatedSlugs: ["sekken", "sentakuki", "suidou"]
+category: "住まい・暮らし"
 ---
 
 洗濯機に液体洗剤を入れてボタンを押す。

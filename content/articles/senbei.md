@@ -6,6 +6,7 @@ updatedAt: "2027-01-24"
 description: "醤油の香ばしい匂いが漂うせんべいは、日本の伝統的な米菓だ。中国から伝わった平たい菓子が、醤油文化と結びついて日本独自の進化を遂げた歴史。"
 thumbnail: ""
 relatedSlugs: ["ryokucha", "sato", "shoyu"]
+category: "食べ物・食文化"
 ---
 
 お茶の時間に、せんべいの袋を開ける。

@@ -6,6 +6,7 @@ updatedAt: "2026-11-09"
 description: "カップに熱湯を注いで3分待つ。その手軽さは、食の工業化と保存技術の組み合わせから生まれた20世紀の発明だ。"
 thumbnail: ""
 relatedSlugs: ["reitoshokuhin", "kanzume", "supa"]
+category: "食べ物・食文化"
 ---
 
 深夜に小腹が空いたとき、棚からカップ麺を取り出す。

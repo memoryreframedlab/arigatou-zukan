@@ -6,6 +6,7 @@ updatedAt: "2026-12-11"
 description: "家の中に小さな寺を置く。仏壇は仏教と家族の歴史が結びついた日本独自の文化で、先祖と毎日向き合うための装置だ。"
 thumbnail: ""
 relatedSlugs: ["sosogi", "kekkon", "nengajo"]
+category: "年中行事・伝統"
 ---
 
 朝、仏壇に手を合わせ、先祖に報告する。

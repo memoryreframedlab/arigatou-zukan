@@ -6,6 +6,7 @@ updatedAt: "2027-01-11"
 description: "雪玉を二段に積んだ雪だるまは日本独自の形で、欧米の三段雪だるまとは異なる。雪を使った造形と、だるまの縁起物としての歴史が結びついた文化。"
 thumbnail: ""
 relatedSlugs: ["saigai", "koen", "undokai"]
+category: "レジャー・スポーツ"
 ---
 
 積もった雪を丸めて転がす。

@@ -6,6 +6,7 @@ updatedAt: "2026-11-30"
 description: "毎年の健診で血圧・血糖・コレステロールを確認する。病気になる前に体の変化を察知する仕組みは、どのように生まれたのか。"
 thumbnail: ""
 relatedSlugs: ["byoin", "hoken", "yobosesshu"]
+category: "医療・健康"
 ---
 
 毎年、健康診断の案内が職場に届く。

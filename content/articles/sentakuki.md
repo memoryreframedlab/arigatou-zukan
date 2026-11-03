@@ -6,6 +6,7 @@ updatedAt: "2026-07-04"
 description: "洗濯物を入れてボタンを押せば、あとは機械がやってくれる。その前の時代、洗濯は体力のいる重労働だった。"
 thumbnail: ""
 relatedSlugs: ["sekken", "kyutoki"]
+category: "住まい・暮らし"
 ---
 
 洗濯機が家庭に普及したのは、戦後の高度経済成長期のことだ。

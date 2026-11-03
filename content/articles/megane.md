@@ -6,6 +6,7 @@ updatedAt: "2026-07-23"
 description: "かければ世界が見える。この道具が存在しなかった時代、視力の弱さは暮らしの制約を直接意味した。"
 thumbnail: ""
 relatedSlugs: ["yakkyoku", "denki"]
+category: "医療・健康"
 ---
 
 眼鏡が発明されたのは、13世紀のヨーロッパのことだ。

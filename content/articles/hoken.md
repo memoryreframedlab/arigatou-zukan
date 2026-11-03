@@ -6,6 +6,7 @@ updatedAt: "2026-08-19"
 description: "病気になったら保険が使える。この当たり前の前には、リスクを一人で抱えるしかなかった時代がある。"
 thumbnail: ""
 relatedSlugs: ["yakkyoku", "ginko"]
+category: "医療・健康"
 ---
 
 日本で国民皆保険制度が確立したのは、1961年のことだ。

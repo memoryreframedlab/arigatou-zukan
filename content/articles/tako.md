@@ -6,6 +6,7 @@ updatedAt: "2027-01-04"
 description: "凧揚げは正月の風物詩として知られるが、その起源は軍事・通信・祭礼にあった。風の力で空に上がるシンプルな道具の、数千年の歴史。"
 thumbnail: ""
 relatedSlugs: ["koen", "undokai", "koyomi"]
+category: "年中行事・伝統"
 ---
 
 冬の青空に、色とりどりの凧が上がる。

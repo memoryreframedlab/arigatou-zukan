@@ -6,6 +6,7 @@ updatedAt: "2026-10-17"
 description: "亡くなった人を送る方法は、時代と地域によって大きく違っていた。現在当たり前の火葬は、日本の歴史の中では比較的新しい選択だ。"
 thumbnail: ""
 relatedSlugs: ["kekkon", "byoin", "hoken"]
+category: "年中行事・伝統"
 ---
 
 人が亡くなったとき、どのように送るかは、その社会の死生観を映す。

@@ -6,6 +6,7 @@ updatedAt: "2026-12-06"
 description: "紙に書いて持ち歩く予定管理の道具。手帳は時間を「見える化」した近代の発明で、スケジュール文化そのものを作り出した。"
 thumbnail: ""
 relatedSlugs: ["karenda", "enpitsu", "meishi"]
+category: "住まい・暮らし"
 ---
 
 年末になると来年の手帳を買う。

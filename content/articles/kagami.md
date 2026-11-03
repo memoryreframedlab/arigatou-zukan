@@ -6,6 +6,7 @@ updatedAt: "2026-08-24"
 description: "自分の顔を毎日鏡で確認する。しかしその前の時代、人は自分の顔を正確に知ることができなかった。"
 thumbnail: ""
 relatedSlugs: ["enpitsu", "kamera"]
+category: "住まい・暮らし"
 ---
 
 ガラス製の高品質な鏡が普及したのは、17世紀のヴェネツィアで技術が確立されてからだ。

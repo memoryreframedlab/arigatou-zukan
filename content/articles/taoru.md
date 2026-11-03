@@ -6,6 +6,7 @@ updatedAt: "2027-01-23"
 description: "ふわふわのパイル生地のタオルは19世紀の産業革命が生んだ発明品だ。日本には明治に伝わり、手拭いに代わって普及した。毎日使うタオルの意外な歴史。"
 thumbnail: ""
 relatedSlugs: ["sentakuki", "senzai", "sekken"]
+category: "住まい・暮らし"
 ---
 
 風呂から上がって、タオルで身体を拭く。

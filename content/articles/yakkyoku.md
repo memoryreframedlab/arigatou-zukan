@@ -6,6 +6,7 @@ updatedAt: "2026-07-24"
 description: "処方箋を持っていけば薬がもらえる。近代薬局が登場するまで、薬は植物・動物・鉱物の知恵で作られていた。"
 thumbnail: ""
 relatedSlugs: ["megane", "kyukyusha"]
+category: "医療・健康"
 ---
 
 近代的な薬局が日本に整備されたのは、明治時代以降のことだ。

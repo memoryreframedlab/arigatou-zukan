@@ -6,6 +6,7 @@ updatedAt: "2026-08-06"
 description: "ドアを閉めて鍵をかける。当たり前のその行為の前には、鍵のない暮らしが長く続いていた。"
 thumbnail: ""
 relatedSlugs: ["sento", "tatami"]
+category: "住まい・暮らし"
 ---
 
 現代的な鍵（シリンダー錠）が日本の住宅に普及したのは、戦後のことだ。

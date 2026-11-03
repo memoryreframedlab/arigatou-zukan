@@ -6,6 +6,7 @@ updatedAt: "2026-08-15"
 description: "写真を撮るのは当たり前だ。しかしその前の時代、自分の顔が記録されること自体が、特別な体験だった。"
 thumbnail: ""
 relatedSlugs: ["smartphone", "rajio"]
+category: "通信・テクノロジー"
 ---
 
 写真（銀板写真）が発明されたのは、1839年のことだ。

@@ -6,6 +6,7 @@ updatedAt: "2026-09-15"
 description: "夏の夜空に咲く大輪の花火。日本の花火文化は江戸時代に花開いたが、それ以前の夜の祭りを照らしていたのは別の光だった。"
 thumbnail: ""
 relatedSlugs: ["matsuri", "matchi"]
+category: "年中行事・伝統"
 ---
 
 夏の夜空に大輪の花火が開く瞬間、歓声が上がる。

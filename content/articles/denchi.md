@@ -6,6 +6,7 @@ updatedAt: "2026-08-09"
 description: "単三電池を入れれば動く。この当たり前の前には、カエルの解剖実験があった。"
 thumbnail: ""
 relatedSlugs: ["denki", "smartphone"]
+category: "住まい・暮らし"
 ---
 
 化学電池が発明されたのは、1800年のことだ。

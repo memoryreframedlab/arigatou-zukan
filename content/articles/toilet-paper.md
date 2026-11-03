@@ -6,6 +6,7 @@ updatedAt: "2026-07-14"
 description: "当たり前のように使うトイレットペーパーは、日本に普及したのは戦後のことにすぎない。"
 thumbnail: ""
 relatedSlugs: ["toilet", "kanzume"]
+category: "住まい・暮らし"
 ---
 
 トイレットペーパーが日本の一般家庭に普及したのは、戦後のことだ。

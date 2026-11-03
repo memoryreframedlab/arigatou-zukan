@@ -6,6 +6,7 @@ updatedAt: "2026-12-20"
 description: "手を洗い、傷を消毒する。当たり前の習慣の裏に、「目に見えない細菌が感染症を起こす」という発見がある。"
 thumbnail: ""
 relatedSlugs: ["masui", "sekken", "byoin"]
+category: "医療・健康"
 ---
 
 傷をすると、まず消毒する。

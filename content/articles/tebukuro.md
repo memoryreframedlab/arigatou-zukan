@@ -6,6 +6,7 @@ updatedAt: "2026-12-03"
 description: "指先を守る手袋は、寒さへの実用的な対処であると同時に、身分・職業・時代を映す文化の鏡でもある。"
 thumbnail: ""
 relatedSlugs: ["bousougi", "nuno", "mafura"]
+category: "住まい・暮らし"
 ---
 
 冬の朝、コートのポケットから手袋を取り出す。

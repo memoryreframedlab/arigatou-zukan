@@ -6,6 +6,7 @@ updatedAt: "2027-01-02"
 description: "元旦か2日に書く書き初めは、一年の目標や吉祥の言葉を毛筆で書く正月の習慣だ。宮中の儀式から庶民の行事へと広まった、筆と墨の文化。"
 thumbnail: ""
 relatedSlugs: ["fude", "enpitsu", "koyomi"]
+category: "教育・文化"
 ---
 
 新年最初の日に、筆を持つ。

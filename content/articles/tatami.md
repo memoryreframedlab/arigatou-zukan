@@ -6,6 +6,7 @@ updatedAt: "2026-08-22"
 description: "畳の上に座り、寝転ぶ。この当たり前の前には、畳が貴族だけの特権だった長い歴史がある。"
 thumbnail: ""
 relatedSlugs: ["futon", "sento"]
+category: "住まい・暮らし"
 ---
 
 畳が庶民の住まいに普及したのは、江戸時代後期のことだ。

@@ -6,6 +6,7 @@ updatedAt: "2026-11-22"
 description: "ポリエステル・ナイロン・アクリル。現代の衣服の多くは石油から生まれた繊維でできている。これは20世紀の化学が実現した変革だ。"
 thumbnail: ""
 relatedSlugs: ["bousougi", "sebiro", "kurininggu"]
+category: "住まい・暮らし"
 ---
 
 着ている服の素材を確認してみると、ポリエステル・ナイロン・アクリルなどの表記が並んでいることが多い。

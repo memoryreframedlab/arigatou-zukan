@@ -6,6 +6,7 @@ updatedAt: "2026-12-14"
 description: "赤いレンガ造りの洋館。明治時代に日本に入ったレンガ建築は近代化の象徴だったが、関東大震災で脆弱性が証明された。"
 thumbnail: ""
 relatedSlugs: ["konkurito", "manshon", "saigai"]
+category: "住まい・暮らし"
 ---
 
 横浜や函館に残る赤レンガの倉庫・洋館は、観光地として今も愛されている。

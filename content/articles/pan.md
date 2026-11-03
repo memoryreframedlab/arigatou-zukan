@@ -6,6 +6,7 @@ updatedAt: "2026-08-11"
 description: "毎朝食べるパン。日本の食卓にパンが定着した背景には、戦後のアメリカの政策があった。"
 thumbnail: ""
 relatedSlugs: ["sato", "gyunyu"]
+category: "食べ物・食文化"
 ---
 
 パンが日本の一般家庭に広く普及したのは、戦後1950年代以降のことだ。

@@ -6,6 +6,7 @@ updatedAt: "2026-11-10"
 description: "食料品から洋服、家電、レストランまで一棟に揃う。百貨店という「なんでも買える宮殿」は、日本の消費文化を大きく変えた。"
 thumbnail: ""
 relatedSlugs: ["supa", "konbini", "ginko"]
+category: "お金・社会制度"
 ---
 
 デパートの地下食料品売り場に入ると、独特の高揚感がある。

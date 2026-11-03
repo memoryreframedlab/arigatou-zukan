@@ -6,6 +6,7 @@ updatedAt: "2026-12-23"
 description: "赤いシリンダーが廊下に立っている。消火器は火災の「最初の数分」を変えた道具で、その登場は火事への対処を受動から能動に変えた。"
 thumbnail: ""
 relatedSlugs: ["shobo", "saigai", "manshon"]
+category: "交通・インフラ"
 ---
 
 赤い消火器が廊下に立っている。

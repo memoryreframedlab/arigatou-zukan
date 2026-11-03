@@ -6,6 +6,7 @@ updatedAt: "2026-08-28"
 description: "秋の運動会で徒競走を走る。日本の学校の風物詩だが、その起源は明治の軍隊式体育にある。"
 thumbnail: ""
 relatedSlugs: ["gakko", "umi-yu"]
+category: "レジャー・スポーツ"
 ---
 
 学校の運動会が日本で始まったのは、明治時代のことだ。

@@ -6,6 +6,7 @@ updatedAt: "2026-08-26"
 description: "プラスチック製品は日常のあらゆる場所にある。この素材が登場する前、人々は何を使っていたのか。"
 thumbnail: ""
 relatedSlugs: ["kanzume", "reitoshokuhin"]
+category: "住まい・暮らし"
 ---
 
 プラスチック（合成樹脂）が工業的に製造されるようになったのは、20世紀初頭のことだ。

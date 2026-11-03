@@ -6,6 +6,7 @@ updatedAt: "2026-07-09"
 description: "光を取り込みながら風雨を遮る。当たり前のように透明な窓は、日本の家屋に広まったのは明治以降のことだ。"
 thumbnail: ""
 relatedSlugs: ["aircon", "toilet"]
+category: "住まい・暮らし"
 ---
 
 窓ガラスが日本の一般家庭に普及したのは、明治時代以降のことだ。

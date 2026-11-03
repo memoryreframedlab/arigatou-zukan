@@ -6,6 +6,7 @@ updatedAt: "2026-11-08"
 description: "病院で生まれることが当たり前の現代。しかし医療機関での出産が標準になったのは戦後のことで、それ以前は家での出産が普通だった。"
 thumbnail: ""
 relatedSlugs: ["byoin", "yobosesshu", "omutsu"]
+category: "医療・健康"
 ---
 
 現代の日本で生まれる子どもの99%以上は、病院または診療所・助産院で生まれる。

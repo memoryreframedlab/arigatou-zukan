@@ -6,6 +6,7 @@ updatedAt: "2026-10-27"
 description: "壊れたら捨てて新しいものを買う。その当たり前が定着したのは大量生産・大量消費の時代からで、それ以前は物を直すことが生活の基本だった。"
 thumbnail: ""
 relatedSlugs: ["gomi", "sentakuki", "purasu"]
+category: "住まい・暮らし"
 ---
 
 靴底がすり減ったら買い替える。傘の骨が折れたら捨てる。

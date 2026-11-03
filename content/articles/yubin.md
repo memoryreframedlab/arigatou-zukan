@@ -6,6 +6,7 @@ updatedAt: "2026-07-02"
 description: "封筒に宛先を書き、切手を貼って投函する。翌日か翌々日には届く。この仕組みは、意外なほど最近できあがった。"
 thumbnail: ""
 relatedSlugs: ["kyukyusha", "shingo"]
+category: "通信・テクノロジー"
 ---
 
 封筒に宛先を書いて、ポストに入れる。

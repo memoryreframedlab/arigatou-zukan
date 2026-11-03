@@ -6,6 +6,7 @@ updatedAt: "2026-08-02"
 description: "スイッチを押せば映像と音声が飛び込んでくる。この箱が茶の間に来たのは、戦後のことだ。"
 thumbnail: ""
 relatedSlugs: ["rajio", "shinbun"]
+category: "メディア・エンタメ"
 ---
 
 テレビが一般家庭に普及したのは、1950年代後半のことだ。

@@ -6,6 +6,7 @@ updatedAt: "2026-07-27"
 description: "今日が何月何日かを全員が知っている。これは当たり前ではなく、暦という共通言語が社会を支えている。"
 thumbnail: ""
 relatedSlugs: ["tokei", "tetsudo"]
+category: "住まい・暮らし"
 ---
 
 現代のような暦（カレンダー）が整備されたのは、長い歴史の積み重ねの上にある。

@@ -6,6 +6,7 @@ updatedAt: "2026-07-19"
 description: "119番を押せば消防車が来る。その前の時代、江戸の町では火事と向き合う独自の仕組みがあった。"
 thumbnail: ""
 relatedSlugs: ["suidou", "kyukyusha"]
+category: "交通・インフラ"
 ---
 
 近代的な消防制度が日本に整備されたのは、明治時代以降のことだ。

@@ -6,6 +6,7 @@ updatedAt: "2026-08-08"
 description: "濡れずに歩ける。その当たり前の前には、傘を借りて歩く「貸傘文化」があった。"
 thumbnail: ""
 relatedSlugs: ["suidou", "hoso-doro"]
+category: "住まい・暮らし"
 ---
 
 現代的な洋傘（折りたたみ傘・ビニール傘）が日本に広まったのは、明治以降のことだ。

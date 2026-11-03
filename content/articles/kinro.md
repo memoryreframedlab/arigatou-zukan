@@ -6,6 +6,7 @@ updatedAt: "2026-11-23"
 description: "11月23日は「新嘗祭（にいなめさい）」という収穫を感謝する祭日だった。その日が「勤労感謝の日」に変わった背景を知ると、働くことの意味が見えてくる。"
 thumbnail: ""
 relatedSlugs: ["tanbo", "nouki", "gakko"]
+category: "年中行事・伝統"
 ---
 
 11月23日は勤労感謝の日だ。

@@ -6,6 +6,7 @@ updatedAt: "2027-01-08"
 description: "こたつに入りながらみかんを食べる——この冬の風景は日本独自の柑橘文化が生み出した。温州みかんがどうやって日本の冬の代名詞になったかの歴史。"
 thumbnail: ""
 relatedSlugs: ["sato", "kotatsu", "supa"]
+category: "食べ物・食文化"
 ---
 
 こたつに入って、みかんを食べる。

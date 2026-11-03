@@ -6,6 +6,7 @@ updatedAt: "2026-10-31"
 description: "仮装した人が街を歩く10月末の光景は、ほんの30年前には日本に存在しなかった。外来文化がどのように日本に根づいたのかを振り返る。"
 thumbnail: ""
 relatedSlugs: ["undokai", "eiga", "terebi"]
+category: "年中行事・伝統"
 ---
 
 10月末になると、街がオレンジと黒で彩られる。

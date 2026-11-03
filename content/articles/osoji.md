@@ -6,6 +6,7 @@ updatedAt: "2026-12-26"
 description: "年末に家中を徹底的に掃除する。日本の大掃除文化は「新年を清潔に迎える」という精神的な意味と実用的な意味を持つ年間行事だ。"
 thumbnail: ""
 relatedSlugs: ["senzai", "sekken", "gomi"]
+category: "年中行事・伝統"
 ---
 
 12月も後半になると、普段手をつけない場所の掃除を始める。

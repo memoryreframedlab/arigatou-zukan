@@ -6,6 +6,7 @@ updatedAt: "2026-07-05"
 description: "スイッチひとつで部屋が冷える。その当たり前が、日本の一般家庭に広まったのは1980年代のことだ。"
 thumbnail: ""
 relatedSlugs: ["denki", "mado-garasu"]
+category: "住まい・暮らし"
 ---
 
 エアコンが家庭に普及したのは、1980年代のことにすぎない。

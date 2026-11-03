@@ -6,6 +6,7 @@ updatedAt: "2026-08-03"
 description: "道路を走る車は当たり前の存在だ。しかし車が登場したとき、それは「環境問題の解決策」として歓迎されていた。"
 thumbnail: ""
 relatedSlugs: ["hoso-doro", "jitensha"]
+category: "交通・インフラ"
 ---
 
 ガソリン自動車が実用化されたのは、1885年のことだ。

@@ -6,6 +6,7 @@ updatedAt: "2026-10-16"
 description: "箸で食べることは今や日本人の当たり前だが、それが食事の標準になったのは案外遅く、しかも最初は神への供え物から始まった。"
 thumbnail: ""
 relatedSlugs: ["hashi", "miso", "shoyu"]
+category: "食べ物・食文化"
 ---
 
 食事の前に箸を手に取る。

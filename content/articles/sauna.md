@@ -6,6 +6,7 @@ updatedAt: "2026-12-10"
 description: "熱い空間で汗をかいて整う。フィンランド発祥のサウナ文化は日本に渡り、銭湯・スパ・温泉地を越えて独自の進化を遂げている。"
 thumbnail: ""
 relatedSlugs: ["sento", "onsen", "ofuro"]
+category: "医療・健康"
 ---
 
 高温のサウナ室に入り、しばらくすると大量の汗が出る。

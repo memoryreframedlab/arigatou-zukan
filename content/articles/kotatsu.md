@@ -6,6 +6,7 @@ updatedAt: "2026-10-01"
 description: "スイッチを入れれば足元から温まる。その当たり前は、炭火と灰の工夫から長い時間をかけて形になった。"
 thumbnail: ""
 relatedSlugs: ["aircon", "tatami", "futon"]
+category: "住まい・暮らし"
 ---
 
 足をすべり込ませた瞬間、ふわりと温かい。

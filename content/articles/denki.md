@@ -6,6 +6,7 @@ updatedAt: "2026-07-02"
 description: "スイッチひとつで部屋が明るくなる。その仕組みが当たり前になったのは、人類の歴史からすればごく最近のことにすぎない。"
 thumbnail: ""
 relatedSlugs: ["suidou", "reizouko"]
+category: "交通・インフラ"
 ---
 
 夜になれば、スイッチを押すだけで部屋が明るくなる。

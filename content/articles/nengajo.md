@@ -6,6 +6,7 @@ updatedAt: "2026-09-09"
 description: "元旦に届く年賀状は日本の正月の風物詩だ。しかし郵便制度が整う前、新年の挨拶はどのように伝えられていたのか。"
 thumbnail: ""
 relatedSlugs: ["yubin", "denwa"]
+category: "年中行事・伝統"
 ---
 
 元旦の朝、ポストを開けると束になった年賀状が届いている。

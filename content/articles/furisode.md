@@ -6,6 +6,7 @@ updatedAt: "2027-01-20"
 description: "成人式・結婚式で着る振袖は、袖の長さで未婚女性を表す日本独自の礼装だ。江戸時代の小袖文化から発展した着物の中でも最も格式の高い女性礼装の歴史。"
 thumbnail: ""
 relatedSlugs: ["seijinshiki", "kekkon", "nuno"]
+category: "住まい・暮らし"
 ---
 
 成人式の朝、振袖の着付けに時間をかける。

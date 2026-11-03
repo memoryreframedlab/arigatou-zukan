@@ -6,6 +6,7 @@ updatedAt: "2026-07-21"
 description: "24時間365日いつでも開いている店がある。このインフラが日本に根づいたのは、1970年代以降のことだ。"
 thumbnail: ""
 relatedSlugs: ["jihanki", "reitoshokuhin"]
+category: "お金・社会制度"
 ---
 
 日本にコンビニが登場したのは、1974年のことだ。

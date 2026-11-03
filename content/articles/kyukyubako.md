@@ -6,6 +6,7 @@ updatedAt: "2026-12-12"
 description: "絆創膏・消毒薬・包帯が一箱に揃っている。家庭の救急箱は、近代医学の知識が日常生活に届いたものだ。"
 thumbnail: ""
 relatedSlugs: ["byoin", "yobosesshu", "yakkyoku"]
+category: "医療・健康"
 ---
 
 転んで膝をすりむいた子どもに、絆創膏を貼る。

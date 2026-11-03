@@ -6,6 +6,7 @@ updatedAt: "2026-11-14"
 description: "夏に窓を開けても虫が入らない。これほど快適なことはないが、網戸が日本の家に普及したのは戦後のことだ。"
 thumbnail: ""
 relatedSlugs: ["mado-garasu", "katori-senko", "aircon"]
+category: "住まい・暮らし"
 ---
 
 夏の夜、窓を開けると風が入ってくる。そして虫は入ってこない。

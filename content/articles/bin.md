@@ -6,6 +6,7 @@ updatedAt: "2026-12-18"
 description: "透明なガラス瓶は中身が見え、密封でき、洗って繰り返し使える。この容器の発明は、食品保存と流通を根本から変えた。"
 thumbnail: ""
 relatedSlugs: ["kanzume", "sake", "reitoshokuhin"]
+category: "食べ物・食文化"
 ---
 
 牛乳瓶・ジャムの瓶・薬の瓶——ガラス瓶の形は用途によって様々だ。

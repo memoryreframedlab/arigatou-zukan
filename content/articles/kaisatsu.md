@@ -6,6 +6,7 @@ updatedAt: "2026-11-12"
 description: "ICカードをタッチしてゲートをくぐる。その数秒の体験は、鉄道と情報技術が作った現代の当たり前だ。"
 thumbnail: ""
 relatedSlugs: ["tetsudo", "shinkansen", "cashless"]
+category: "交通・インフラ"
 ---
 
 改札口で立ち止まることなく、ICカードをタッチして通り抜ける。

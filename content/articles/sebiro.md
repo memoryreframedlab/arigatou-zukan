@@ -6,6 +6,7 @@ updatedAt: "2026-11-15"
 description: "今日のスーツは19世紀のイギリスで生まれた。着物から洋服へ、日本の仕事着が変わった過程には、文化の衝突と受容の歴史がある。"
 thumbnail: ""
 relatedSlugs: ["nekutai", "seifuku", "meishi"]
+category: "住まい・暮らし"
 ---
 
 月曜日の朝、スーツに袖を通す。

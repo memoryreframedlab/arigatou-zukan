@@ -6,6 +6,7 @@ updatedAt: "2026-10-03"
 description: "台所の引き出しを開ければ、用途ごとの包丁が並んでいる。その当たり前の道具が、料理の文化そのものを変えてきた。"
 thumbnail: ""
 relatedSlugs: ["gas-konro", "reizouko", "hocho"]
+category: "食べ物・食文化"
 ---
 
 魚を三枚におろす。野菜を薄く切る。肉を一口大に。

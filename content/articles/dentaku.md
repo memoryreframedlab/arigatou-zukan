@@ -6,6 +6,7 @@ updatedAt: "2026-09-10"
 description: "数字を入力すれば瞬時に答えが出る電卓。それが登場する前、人々は算盤と暗算と筆算で複雑な計算を処理していた。"
 thumbnail: ""
 relatedSlugs: ["pasokon", "denchi"]
+category: "通信・テクノロジー"
 ---
 
 数字を入力してイコールを押せば、瞬時に答えが出る。

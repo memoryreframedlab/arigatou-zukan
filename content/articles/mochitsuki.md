@@ -6,6 +6,7 @@ updatedAt: "2026-12-30"
 description: "年末に臼と杵で餅をつく。この共同作業は今では珍しくなったが、もち米から餅を作ることは正月準備の核心だった。"
 thumbnail: ""
 relatedSlugs: ["osechi", "tanbo", "kadomatsu"]
+category: "食べ物・食文化"
 ---
 
 年の暮れに、臼と杵の音が聞こえる場所がある。

@@ -6,6 +6,7 @@ updatedAt: "2026-08-30"
 description: "日本が世界に誇る包み道具・風呂敷。今レジ袋削減の文脈で再評価されているこの布には、長い歴史がある。"
 thumbnail: ""
 relatedSlugs: ["sento", "kanzume"]
+category: "住まい・暮らし"
 ---
 
 風呂敷が庶民の生活用品として定着したのは、江戸時代のことだ。

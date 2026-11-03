@@ -6,6 +6,7 @@ updatedAt: "2027-01-22"
 description: "ベルトコンベアで皿が回る回転寿司は1958年の日本の発明だ。高級料理だった寿司を大衆食に変えたこの仕組みが、日本の食文化をどう変えたか。"
 thumbnail: ""
 relatedSlugs: ["gaishoku", "internet", "supa"]
+category: "食べ物・食文化"
 ---
 
 ゆっくり回ってくる皿の中から、好きなものを取る。

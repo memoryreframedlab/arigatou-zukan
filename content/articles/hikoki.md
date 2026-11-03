@@ -6,6 +6,7 @@ updatedAt: "2026-08-04"
 description: "数時間で地球の裏側に着く。この当たり前の前には、船で何週間もかかる渡航があった。"
 thumbnail: ""
 relatedSlugs: ["tetsudo", "jidosha"]
+category: "交通・インフラ"
 ---
 
 動力飛行機が初めて飛んだのは、1903年のことだ。

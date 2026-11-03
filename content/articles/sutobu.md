@@ -6,6 +6,7 @@ updatedAt: "2026-11-01"
 description: "部屋全体を一つの熱源で温める。その当たり前は、囲炉裏やこたつで「一点を温める」時代から、暖房の概念が変わった転換点だった。"
 thumbnail: ""
 relatedSlugs: ["kotatsu", "denki", "gas-konro"]
+category: "住まい・暮らし"
 ---
 
 11月に入ると、押し入れからストーブを出す家庭がある。

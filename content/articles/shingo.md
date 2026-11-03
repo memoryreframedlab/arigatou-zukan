@@ -6,6 +6,7 @@ updatedAt: "2026-07-02"
 description: "赤で止まり、青で渡る。その単純なルールが、都市の交差点を毎日秩序立てている。"
 thumbnail: ""
 relatedSlugs: ["suidou", "denki"]
+category: "交通・インフラ"
 ---
 
 赤になれば止まる。青になれば渡る。

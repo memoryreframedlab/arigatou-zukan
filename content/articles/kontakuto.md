@@ -6,6 +6,7 @@ updatedAt: "2026-11-11"
 description: "フレームのない視界で世界を見る。コンタクトレンズは眼鏡と同じ目的を、まったく違う手段で実現した20世紀の発明だ。"
 thumbnail: ""
 relatedSlugs: ["megane", "byoin", "suidou"]
+category: "医療・健康"
 ---
 
 朝に小さなレンズを目に乗せて、夜に外す。

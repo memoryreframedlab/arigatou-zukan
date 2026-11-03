@@ -6,6 +6,7 @@ updatedAt: "2027-01-29"
 description: "冬至の湯船にゆずを浮かべる習慣は江戸時代から続く。果汁より皮・香りが珍重されるゆずは、日本料理における「香り」の文化を象徴する柑橘だ。"
 thumbnail: ""
 relatedSlugs: ["sento", "onsen", "miso"]
+category: "レジャー・スポーツ"
 ---
 
 冬至の湯船に、ゆずが浮かんでいる。

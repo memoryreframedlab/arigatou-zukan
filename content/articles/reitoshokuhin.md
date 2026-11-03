@@ -6,6 +6,7 @@ updatedAt: "2026-07-13"
 description: "レンジで数分温めれば食事ができる。この手軽さを支える冷凍技術は、20世紀の発明だ。"
 thumbnail: ""
 relatedSlugs: ["kanzume", "denshi-renji"]
+category: "食べ物・食文化"
 ---
 
 冷凍食品が家庭に普及したのは、日本では1970年代以降のことだ。

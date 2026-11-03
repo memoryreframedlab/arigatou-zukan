@@ -6,6 +6,7 @@ updatedAt: "2027-01-15"
 description: "元旦の朝に食べるお雑煮は、地域によって出汁・具・餅の形がまったく異なる。日本の食文化の多様性を最も鮮明に映す正月料理の歴史。"
 thumbnail: ""
 relatedSlugs: ["osechi", "miso", "tanbo"]
+category: "食べ物・食文化"
 ---
 
 元旦の朝、お雑煮の湯気が上がる。

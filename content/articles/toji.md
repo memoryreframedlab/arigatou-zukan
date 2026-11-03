@@ -6,6 +6,7 @@ updatedAt: "2026-12-22"
 description: "12月22日頃の冬至はかぼちゃとゆず湯。しかしこの日が重要だったのは、太陽が戻ってくる始まりの日として、古代から祝われてきたからだ。"
 thumbnail: ""
 relatedSlugs: ["koyomi", "sento", "tanbo"]
+category: "年中行事・伝統"
 ---
 
 12月22日頃、一年で最も夜が長い日が来る。

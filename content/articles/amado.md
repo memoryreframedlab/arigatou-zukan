@@ -6,6 +6,7 @@ updatedAt: "2026-11-26"
 description: "台風が来る前夜、雨戸を閉める。その行為が持つ「家を守る」という意味を、雨戸の歴史から考える。"
 thumbnail: ""
 relatedSlugs: ["mado-garasu", "saigai", "amido"]
+category: "住まい・暮らし"
 ---
 
 台風が接近する夜、雨戸を閉めて鍵をかける。

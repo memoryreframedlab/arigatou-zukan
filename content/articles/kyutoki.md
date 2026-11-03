@@ -6,6 +6,7 @@ updatedAt: "2026-07-06"
 description: "蛇口をひねれば瞬時に湯が出る。その仕組みが家庭に広まったのは、1970年代から1980年代のことだ。"
 thumbnail: ""
 relatedSlugs: ["suidou", "sentakuki"]
+category: "メディア・エンタメ"
 ---
 
 給湯器が家庭に入る前、お湯を手に入れるには時間と手間が必要だった。

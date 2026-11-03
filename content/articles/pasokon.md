@@ -6,6 +6,7 @@ updatedAt: "2026-10-09"
 description: "キーボードを叩けば文字が並び、ワンクリックで修正できる。その当たり前の裏に、タイプライターと算盤の時代がある。"
 thumbnail: ""
 relatedSlugs: ["internet", "smartphone", "dentaku"]
+category: "通信・テクノロジー"
 ---
 
 文書を作る、表を作る、メールを送る。

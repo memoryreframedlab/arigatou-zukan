@@ -6,6 +6,7 @@ updatedAt: "2026-11-05"
 description: "ファンデーション・口紅・アイライナー。現代の化粧品は多様化したが、肌を塗り飾る行為は古代から続く人間の表現だった。"
 thumbnail: ""
 relatedSlugs: ["biyoin", "shanpuu", "sekken"]
+category: "住まい・暮らし"
 ---
 
 朝の洗顔の後、鏡の前でファンデーションを塗る。

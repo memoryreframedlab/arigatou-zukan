@@ -6,6 +6,7 @@ updatedAt: "2026-11-17"
 description: "プロ野球の中継、甲子園の夏。野球は日本に深く根ざしているが、もともとはアメリカのスポーツだった。伝来から150年の歴史。"
 thumbnail: ""
 relatedSlugs: ["undokai", "gakko", "terebi"]
+category: "レジャー・スポーツ"
 ---
 
 夏の甲子園で、球場が揺れる。

@@ -6,6 +6,7 @@ updatedAt: "2026-12-28"
 description: "108回鳴る鐘の音が年の変わり目を告げる。除夜の鐘は仏教の煩悩の数と日本人の心が結びついた、深夜の静かな宗教的慣習だ。"
 thumbnail: ""
 relatedSlugs: ["toshikoshi", "butsudan", "koyomi"]
+category: "年中行事・伝統"
 ---
 
 大みそかの深夜、遠くから鐘の音が聞こえる。

@@ -6,6 +6,7 @@ updatedAt: "2026-09-02"
 description: "スマートフォンで現在地がすぐわかる今。しかし江戸時代の旅人は、全く異なる方法で知らない土地を歩いていた。"
 thumbnail: ""
 relatedSlugs: ["kisha", "chikatetsu"]
+category: "教育・文化"
 ---
 
 「現在地を確認中…」という表示が出るまでの数秒すら、今では待てない気持ちになる。

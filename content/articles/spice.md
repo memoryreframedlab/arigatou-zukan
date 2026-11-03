@@ -6,6 +6,7 @@ updatedAt: "2026-11-25"
 description: "塩コショウで味付けする当たり前。しかしコショウは中世ヨーロッパでは金と等価に扱われ、その入手が大航海時代を動かした。"
 thumbnail: ""
 relatedSlugs: ["sato", "shoyu", "kare"]
+category: "食べ物・食文化"
 ---
 
 料理に塩とコショウを振る。

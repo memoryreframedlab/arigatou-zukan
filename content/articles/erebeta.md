@@ -6,6 +6,7 @@ updatedAt: "2026-07-18"
 description: "ボタンを押せば目的の階へ運ぶ。この装置が普及する前、高い場所への移動は体力と時間の問題だった。"
 thumbnail: ""
 relatedSlugs: ["denki", "tetsudo"]
+category: "交通・インフラ"
 ---
 
 安全なエレベーターが発明されたのは、1852年のことだ。

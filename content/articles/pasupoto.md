@@ -6,6 +6,7 @@ updatedAt: "2026-10-20"
 description: "一冊の冊子で世界中を旅できる。その当たり前の自由は、二度の世界大戦と国際秩序の変化の中から生まれた。"
 thumbnail: ""
 relatedSlugs: ["hikoki", "tetsudo", "internet"]
+category: "お金・社会制度"
 ---
 
 パスポートを持って空港へ行けば、海外へ行ける。

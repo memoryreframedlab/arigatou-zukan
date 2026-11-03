@@ -6,6 +6,7 @@ updatedAt: "2026-12-24"
 description: "12月24日にクリスマスケーキを食べる習慣は日本独自のもの。西洋の文化が日本に入り、日本式に変容した食文化の歴史。"
 thumbnail: ""
 relatedSlugs: ["kurisumasu", "pan", "gyunyu"]
+category: "食べ物・食文化"
 ---
 
 12月24日、白いショートケーキを囲む家族がいる。

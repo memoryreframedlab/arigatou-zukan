@@ -6,6 +6,7 @@ updatedAt: "2026-11-03"
 description: "痛みを感じずに手術を受けられるのは当たり前ではない。麻酔が登場する前、外科手術は患者にとって恐怖そのものだった。"
 thumbnail: ""
 relatedSlugs: ["byoin", "hoken", "yobosesshu"]
+category: "医療・健康"
 ---
 
 手術室に入ると、麻酔がかけられて意識がなくなる。

@@ -6,6 +6,7 @@ updatedAt: "2026-08-25"
 description: "すぐ電話できる。この当たり前の前には、返事が届くまで数日待つ手紙の時代があった。"
 thumbnail: ""
 relatedSlugs: ["smartphone", "internet"]
+category: "通信・テクノロジー"
 ---
 
 電話が発明されたのは、1876年のことだ。

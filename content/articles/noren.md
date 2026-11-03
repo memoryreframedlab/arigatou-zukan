@@ -6,6 +6,7 @@ updatedAt: "2027-01-25"
 description: "入口に下げる暖簾は「営業中」のサイン兼店の顔だ。のれんをくぐる動作に込められた日本の商業文化と、のれん分けという言葉に残る職人の伝統。"
 thumbnail: ""
 relatedSlugs: ["kissaten", "ichiba", "gaishoku"]
+category: "年中行事・伝統"
 ---
 
 暖簾をくぐって、店に入る。

@@ -6,6 +6,7 @@ updatedAt: "2026-08-27"
 description: "夏に海水浴をする。この当たり前の前には、海を「療法の場」として医師が処方した時代がある。"
 thumbnail: ""
 relatedSlugs: ["sento", "undokai"]
+category: "レジャー・スポーツ"
 ---
 
 海水浴が日本で一般化したのは、明治時代以降のことだ。

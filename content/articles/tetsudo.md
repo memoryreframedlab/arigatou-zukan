@@ -6,6 +6,7 @@ updatedAt: "2026-07-17"
 description: "時刻通りに来る列車は当たり前ではない。日本の鉄道は世界で最も正確で、その遅延の基準は「1分」だ。"
 thumbnail: ""
 relatedSlugs: ["hoso-doro", "shingo"]
+category: "交通・インフラ"
 ---
 
 鉄道が日本に開業したのは、1872年（明治5年）のことだ。

@@ -6,6 +6,7 @@ updatedAt: "2026-07-15"
 description: "街の至る所に自販機がある。日本の自販機台数は人口比で世界一で、その理由は治安・賃金・文化の組み合わせにある。"
 thumbnail: ""
 relatedSlugs: ["konbini", "denki"]
+category: "お金・社会制度"
 ---
 
 日本には約400万台の自動販売機がある。

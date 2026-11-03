@@ -6,6 +6,7 @@ updatedAt: "2026-12-05"
 description: "全国の子どもが同じ内容を学ぶために教科書がある。標準化された学びの道具が生まれるまでには、何を誰に教えるかという政治の問いがあった。"
 thumbnail: ""
 relatedSlugs: ["gakko", "katsuji", "shinbun"]
+category: "教育・文化"
 ---
 
 学校の机の中に教科書が入っている。

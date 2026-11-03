@@ -6,6 +6,7 @@ updatedAt: "2026-10-10"
 description: "投票所へ行き、一票を入れる。その当たり前の権利は、長い時間をかけて、少しずつ広げられてきたものだ。"
 thumbnail: ""
 relatedSlugs: ["ginko", "hoken", "gakko"]
+category: "お金・社会制度"
 ---
 
 投票所へ行き、封筒に名前を書き、箱に入れる。

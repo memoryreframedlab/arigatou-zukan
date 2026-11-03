@@ -6,6 +6,7 @@ updatedAt: "2026-10-14"
 description: "財布の中の紙切れが何かと交換できる。その当たり前の仕組みは、物々交換から金貨、紙幣、そしてデジタルへと長い変化の末にある。"
 thumbnail: ""
 relatedSlugs: ["ginko", "konbini", "jihanki"]
+category: "お金・社会制度"
 ---
 
 スマートフォンをかざすだけで支払いができる。

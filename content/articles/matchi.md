@@ -6,6 +6,7 @@ updatedAt: "2026-09-01"
 description: "箱を擦れば火がつく。そのマッチが日本に広まったのは明治時代のことで、それ以前の人々は全く別の方法で火を起こしていた。"
 thumbnail: ""
 relatedSlugs: ["kaitchu-dento", "tanki"]
+category: "住まい・暮らし"
 ---
 
 マッチが日本に入ってきたのは、明治の初めのことだ。

@@ -6,6 +6,7 @@ updatedAt: "2026-11-07"
 description: "夜に外を歩けるのは当たり前ではない。街灯のない夜は月明かりと提灯だけが頼りで、日没後の外出は危険と隣り合わせだった。"
 thumbnail: ""
 relatedSlugs: ["denki", "doro-hyoshiki", "hoso-doro"]
+category: "交通・インフラ"
 ---
 
 夜の街を歩くとき、足元が見えないことはない。

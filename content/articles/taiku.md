@@ -6,6 +6,7 @@ updatedAt: "2026-10-26"
 description: "全員が同じ運動をする体育の時間は、近代学校教育が生み出した習慣だ。それ以前、体を動かすことの意味は今とは全く違っていた。"
 thumbnail: ""
 relatedSlugs: ["undokai", "gakko", "seifuku"]
+category: "教育・文化"
 ---
 
 体育の授業で、みんなでマット運動をした記憶がある。

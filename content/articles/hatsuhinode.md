@@ -6,6 +6,7 @@ updatedAt: "2027-01-01"
 description: "新年最初の日の出を拝む習慣は近代に定着した。太陽を神聖視する信仰と鉄道・観光文化が結びついて生まれた、日本人の元旦の朝の儀式。"
 thumbnail: ""
 relatedSlugs: ["nengajo", "koyomi", "tanbo"]
+category: "年中行事・伝統"
 ---
 
 元旦の夜明け前、山頂や海岸に人々が集まる。

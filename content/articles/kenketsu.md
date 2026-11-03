@@ -6,6 +6,7 @@ updatedAt: "2026-11-24"
 description: "無償の献血で血液を集める仕組みは当たり前ではない。かつて日本では血液が商品として売買されていた。その問題を解決した転換の歴史。"
 thumbnail: ""
 relatedSlugs: ["byoin", "hoken", "yobosesshu"]
+category: "医療・健康"
 ---
 
 献血の呼びかけを見かけたとき、「少し時間があるから」と立ち寄る人がいる。

@@ -6,6 +6,7 @@ updatedAt: "2026-12-16"
 description: "現代都市を支えるコンクリート。この素材は古代ローマが発明し、一度忘れられ、近代に再発見されて世界の形を変えた。"
 thumbnail: ""
 relatedSlugs: ["renga", "manshon", "saigai"]
+category: "住まい・暮らし"
 ---
 
 道路・橋・ビル・ダム——コンクリートのない現代都市は想像できない。

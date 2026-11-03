@@ -6,6 +6,7 @@ updatedAt: "2026-09-28"
 description: "味噌汁は日本食の象徴だが、味噌そのものはどこから来たのか。味噌が普及する以前の日本の食卓と、その変遷を辿る。"
 thumbnail: ""
 relatedSlugs: ["shoyu", "sake"]
+category: "食べ物・食文化"
 ---
 
 朝食に味噌汁。それは日本の食卓の象徴だ。

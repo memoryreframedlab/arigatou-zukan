@@ -6,6 +6,7 @@ updatedAt: "2026-12-21"
 description: "焼いた粘土が屋根を守る。瓦は1500年前に仏教とともに日本に伝わり、寺院から始まって庶民の家まで広がった屋根の文化だ。"
 thumbnail: ""
 relatedSlugs: ["renga", "manshon", "gakko"]
+category: "住まい・暮らし"
 ---
 
 日本の伝統的な町並みを見下ろすと、灰色の瓦屋根が続く。

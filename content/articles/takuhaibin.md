@@ -6,6 +6,7 @@ updatedAt: "2026-07-22"
 description: "翌日届く・時間指定できる・玄関まで持ってくる。日本の宅配便は世界のどの国とも異なる水準を実現している。"
 thumbnail: ""
 relatedSlugs: ["tetsudo", "konbini"]
+category: "通信・テクノロジー"
 ---
 
 個人向け宅配便サービスが日本で始まったのは、1976年のことだ。

@@ -6,6 +6,7 @@ updatedAt: "2027-01-28"
 description: "毎食手にする茶碗は、茶道文化と庶民の食器文化が分かれた日本独特の器だ。「自分の茶碗」という概念が生まれた背景と、陶磁器文化の歴史。"
 thumbnail: ""
 relatedSlugs: ["ryokucha", "hashi", "miso"]
+category: "食べ物・食文化"
 ---
 
 食卓に座ると、自分の茶碗がある。

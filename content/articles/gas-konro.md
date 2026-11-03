@@ -6,6 +6,7 @@ updatedAt: "2026-07-08"
 description: "つまみをひねれば火が出る。その当たり前の前には、薪と炭で火を管理し続ける暮らしがあった。"
 thumbnail: ""
 relatedSlugs: ["denshi-renji", "kanzume"]
+category: "住まい・暮らし"
 ---
 
 ガスコンロが家庭に普及したのは、戦後のことにすぎない。

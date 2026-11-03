@@ -6,6 +6,7 @@ updatedAt: "2026-11-29"
 description: "日本全国が同じ時刻を共有するのは当たり前ではない。鉄道の登場が「同じ時間を持つ国」を必要とし、標準時が生まれた。"
 thumbnail: ""
 relatedSlugs: ["tokei", "tetsudo", "koyomi"]
+category: "交通・インフラ"
 ---
 
 時計が12時を示したとき、日本全国で「今が正午だ」という共通の認識がある。

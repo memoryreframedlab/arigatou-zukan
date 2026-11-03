@@ -6,6 +6,7 @@ updatedAt: "2026-11-28"
 description: "木の板が並んだ洋室で生活することが当たり前になったのはいつからか。畳文化から洋室文化への転換は、生活様式の根本的な変化だった。"
 thumbnail: ""
 relatedSlugs: ["tatami", "manshon", "kotatsu"]
+category: "住まい・暮らし"
 ---
 
 朝、フローリングの廊下を歩く。素足に木の感触が伝わる。

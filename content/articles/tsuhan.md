@@ -6,6 +6,7 @@ updatedAt: "2026-11-27"
 description: "スマートフォンで注文して翌日届く。この体験は「家にいながら買える」という夢を実現した、流通革命の到達点だ。"
 thumbnail: ""
 relatedSlugs: ["takuhaibin", "konbini", "internet"]
+category: "通信・テクノロジー"
 ---
 
 スマートフォンでいくつかタップするだけで、翌日には商品が届く。

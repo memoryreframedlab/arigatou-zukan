@@ -6,6 +6,7 @@ updatedAt: "2027-01-05"
 description: "羽子板で羽根を打ち合う羽根つきは、正月の女の子の遊びとして知られる。無患子の実を使った羽根には「子どもを病気から守る」という願いが込められていた。"
 thumbnail: ""
 relatedSlugs: ["undokai", "gakko", "koyomi"]
+category: "年中行事・伝統"
 ---
 
 正月の庭先で、羽根が空を舞う。

@@ -6,6 +6,7 @@ updatedAt: "2026-10-06"
 description: "トイレを流した水は、見えないパイプの中を進んで処理される。その当たり前の仕組みが整うまで、都市の路地は別の世界だった。"
 thumbnail: ""
 relatedSlugs: ["suidou", "toilet", "gomi"]
+category: "交通・インフラ"
 ---
 
 水洗トイレを流すと、汚水は見えない場所へ消える。

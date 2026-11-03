@@ -6,6 +6,7 @@ updatedAt: "2027-01-03"
 description: "1月7日に七種類の若菜を入れた粥を食べる。この習慣は中国の占いから生まれ、日本で正月の暴飲暴食後の胃を休める実用的な知恵として定着した。"
 thumbnail: ""
 relatedSlugs: ["tanbo", "shoyu", "miso"]
+category: "食べ物・食文化"
 ---
 
 1月7日の朝、薄い塩味のお粥を食べる。

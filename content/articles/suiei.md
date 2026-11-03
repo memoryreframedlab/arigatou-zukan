@@ -6,6 +6,7 @@ updatedAt: "2026-11-13"
 description: "塩素の匂いがするプールで泳ぐ授業。この当たり前は、戦後に整備された学校インフラの産物で、それ以前は自然の水辺が泳ぎを教えた。"
 thumbnail: ""
 relatedSlugs: ["gakko", "umi-yu", "undokai"]
+category: "レジャー・スポーツ"
 ---
 
 夏の体育の授業といえばプールだ。

@@ -6,6 +6,7 @@ updatedAt: "2026-08-07"
 description: "柔らかい布団で眠ることは当たり前ではなかった。江戸庶民は藁の上で、着物を掛けて眠っていた。"
 thumbnail: ""
 relatedSlugs: ["tatami", "sento"]
+category: "住まい・暮らし"
 ---
 
 現代的な布団が庶民に普及したのは、江戸時代後期から明治にかけてのことだ。

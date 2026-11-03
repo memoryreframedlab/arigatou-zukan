@@ -6,6 +6,7 @@ updatedAt: "2026-12-04"
 description: "乗れば当然締めるシートベルト。義務化されるまでの歴史は、「便利さへの抵抗」と「命の統計」の攻防だった。"
 thumbnail: ""
 relatedSlugs: ["jidosha", "kyukyusha", "hoken"]
+category: "交通・インフラ"
 ---
 
 車に乗り込んでドアを閉めると、体が自動的にシートベルトに手を伸ばす。

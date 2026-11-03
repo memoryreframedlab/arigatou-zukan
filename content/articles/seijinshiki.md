@@ -6,6 +6,7 @@ updatedAt: "2027-01-07"
 description: "1月第2月曜日に行われる成人式は、戦後の日本が制定した国民的通過儀礼だ。振袖・袴姿で旧友と再会するこの日が生まれた背景。"
 thumbnail: ""
 relatedSlugs: ["furisode", "gakko", "kekkon"]
+category: "年中行事・伝統"
 ---
 
 1月の第2月曜日、各地の市区町村で式典が開かれる。

@@ -6,6 +6,7 @@ updatedAt: "2026-11-21"
 description: "東京から大阪まで数時間で行ける。この「当たり前」を作った高速道路は、日本の地理的な距離感を変えた戦後の大インフラだ。"
 thumbnail: ""
 relatedSlugs: ["hoso-doro", "jidosha", "shinkansen"]
+category: "交通・インフラ"
 ---
 
 高速道路に乗ると、距離感が変わる。

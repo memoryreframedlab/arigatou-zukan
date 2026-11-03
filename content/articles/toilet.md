@@ -6,6 +6,7 @@ updatedAt: "2026-07-03"
 description: "用を足し、レバーを押す。その単純な動作が当たり前になったのは、日本ではつい最近のことにすぎない。"
 thumbnail: ""
 relatedSlugs: ["suidou", "sekken"]
+category: "住まい・暮らし"
 ---
 
 水洗トイレが日本中に広まったのは、戦後のことにすぎない。

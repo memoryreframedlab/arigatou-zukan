@@ -6,6 +6,7 @@ updatedAt: "2026-08-23"
 description: "気軽に書いて消せる鉛筆。この道具が登場する前、文字を書くことはずっと手間のかかる作業だった。"
 thumbnail: ""
 relatedSlugs: ["gakko", "kagami"]
+category: "教育・文化"
 ---
 
 現代的な鉛筆が製造されるようになったのは、16世紀のことだ。

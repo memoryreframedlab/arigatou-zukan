@@ -6,6 +6,7 @@ updatedAt: "2026-10-28"
 description: "スーツやコートをクリーニングに出せる。その当たり前の仕組みは、洗えない素材の衣服が普及したことで生まれた必要だった。"
 thumbnail: ""
 relatedSlugs: ["sentakuki", "sekken", "bousougi"]
+category: "住まい・暮らし"
 ---
 
 スーツを脱いだら、クリーニングに出す。

@@ -6,6 +6,7 @@ updatedAt: "2026-12-08"
 description: "電気をつくり、水を貯め、洪水を防ぐ。ダムは自然の川を管理しようとした人類の大工事で、その恩恵と代償は今も問われている。"
 thumbnail: ""
 relatedSlugs: ["suidou", "denki", "saigai"]
+category: "交通・インフラ"
 ---
 
 山の中に巨大なコンクリートの壁がある。

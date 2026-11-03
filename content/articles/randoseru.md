@@ -6,6 +6,7 @@ updatedAt: "2026-10-12"
 description: "小学生がランドセルを背負う姿は日本の春の象徴になった。しかしあの四角い革袋は、もともと軍隊の装備から来ていた。"
 thumbnail: ""
 relatedSlugs: ["gakko", "seifuku", "tetsudo"]
+category: "教育・文化"
 ---
 
 4月になると、大きなランドセルを背負って歩く新一年生の姿がある。

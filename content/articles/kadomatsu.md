@@ -6,6 +6,7 @@ updatedAt: "2026-12-29"
 description: "玄関に飾る門松としめ縄は、年神様を迎える目印だ。日本の正月飾りには古代の信仰と植物への敬意が込められている。"
 thumbnail: ""
 relatedSlugs: ["nengajo", "osechi", "tanbo"]
+category: "年中行事・伝統"
 ---
 
 年末になると、門やエントランスに松・竹・梅の飾りが立つ。

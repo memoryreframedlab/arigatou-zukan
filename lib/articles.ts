@@ -5,6 +5,21 @@ import { marked } from "marked";
 
 const ARTICLES_DIR = path.join(process.cwd(), "content", "articles");
 
+export const CATEGORIES = [
+  "食べ物・食文化",
+  "住まい・暮らし",
+  "医療・健康",
+  "交通・インフラ",
+  "通信・テクノロジー",
+  "お金・社会制度",
+  "教育・文化",
+  "メディア・エンタメ",
+  "年中行事・伝統",
+  "レジャー・スポーツ",
+] as const;
+
+export type Category = (typeof CATEGORIES)[number];
+
 export type ArticleMeta = {
   title: string;
   slug: string;
@@ -13,6 +28,7 @@ export type ArticleMeta = {
   description: string;
   thumbnail: string;
   relatedSlugs: string[];
+  category: Category | "";
 };
 
 export type Article = ArticleMeta & {
@@ -43,6 +59,7 @@ function readArticleFile(slug: string): { meta: ArticleMeta; content: string } |
     description: data.description ?? "",
     thumbnail: data.thumbnail ?? "",
     relatedSlugs: Array.isArray(data.relatedSlugs) ? data.relatedSlugs : [],
+    category: data.category ?? "",
   };
 
   return { meta, content };
@@ -107,6 +124,10 @@ export function getFirstSentence(slug: string): string {
   if (!firstLine) return "";
   const sentence = firstLine.split(/[。！？]/)[0];
   return sentence ? sentence + "。" : firstLine;
+}
+
+export function getArticlesByCategory(category: Category): ArticleMeta[] {
+  return getAllArticleMeta().filter((a) => a.category === category);
 }
 
 export function searchArticles(query: string): ArticleMeta[] {

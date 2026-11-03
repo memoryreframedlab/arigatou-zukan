@@ -6,6 +6,7 @@ updatedAt: "2027-01-06"
 description: "こま回しは世界最古の玩具のひとつで、正月の遊びとして日本に定着した。回転し続けるこまの動きは、物理学の発見より先に子どもたちが体で知っていた。"
 thumbnail: ""
 relatedSlugs: ["undokai", "gakko", "hanetsuki"]
+category: "年中行事・伝統"
 ---
 
 紐を巻き、勢いよく投げる。

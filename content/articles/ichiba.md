@@ -6,6 +6,7 @@ updatedAt: "2026-10-18"
 description: "行けば食材が揃う場所がある。その当たり前は、農耕が始まり、余剰作物が生まれ、人が集まって交換する場を作った歴史の上にある。"
 thumbnail: ""
 relatedSlugs: ["supa", "reizouko", "tanbo"]
+category: "食べ物・食文化"
 ---
 
 朝市に行くと、野菜・魚・果物が並んでいる。

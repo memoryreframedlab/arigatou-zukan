@@ -6,6 +6,7 @@ updatedAt: "2027-01-09"
 description: "一つの鍋を囲んで食べる鍋料理は、調理と食事が同時進行する珍しいスタイルだ。食卓を温め、人の距離を縮める鍋の文化と歴史。"
 thumbnail: ""
 relatedSlugs: ["shoyu", "miso", "supa"]
+category: "食べ物・食文化"
 ---
 
 冬の夜、食卓の中央に鍋が置かれる。

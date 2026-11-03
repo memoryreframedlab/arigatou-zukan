@@ -6,6 +6,7 @@ updatedAt: "2026-08-20"
 description: "困ったら交番へ。日本独自のこの制度は、明治時代に警察官が辻々に立つことから始まった。"
 thumbnail: ""
 relatedSlugs: ["gomi", "hoken"]
+category: "交通・インフラ"
 ---
 
 日本の交番制度が整えられたのは、明治時代のことだ。

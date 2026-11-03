@@ -6,6 +6,7 @@ updatedAt: "2026-12-19"
 description: "首に巻くだけで体感温度が上がる。マフラー・スカーフは防寒具であり、ファッションの表現でもある。首を守るという文化の歴史。"
 thumbnail: ""
 relatedSlugs: ["tebukuro", "bousougi", "nuno"]
+category: "住まい・暮らし"
 ---
 
 冬の外出前に、マフラーを首に巻く。

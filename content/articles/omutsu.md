@@ -6,6 +6,7 @@ updatedAt: "2026-10-25"
 description: "使い捨ての紙おむつは育児の負担を劇的に変えた。毎日の洗濯と乾燥が当たり前だった時代との差は、親の体力と時間の差でもある。"
 thumbnail: ""
 relatedSlugs: ["sentakuki", "sekken", "toilet-paper"]
+category: "医療・健康"
 ---
 
 赤ちゃんがいる家庭で、紙おむつの消費量は膨大だ。

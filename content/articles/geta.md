@@ -6,6 +6,7 @@ updatedAt: "2026-08-31"
 description: "下駄・草履・ぞうり。日本の履き物の歴史は、足を地面から守る工夫の歴史だ。"
 thumbnail: ""
 relatedSlugs: ["tatami", "hoso-doro"]
+category: "住まい・暮らし"
 ---
 
 下駄が庶民の日常的な履き物として定着したのは、江戸時代のことだ。

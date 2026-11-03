@@ -6,6 +6,7 @@ updatedAt: "2027-01-18"
 description: "日本で最も生産量の多い野菜のひとつ・大根は、煮て・漬けて・干してと多様な調理法を持つ。中国原産のこの野菜が日本の食卓に深く根付いた歴史。"
 thumbnail: ""
 relatedSlugs: ["tanbo", "shoyu", "miso"]
+category: "食べ物・食文化"
 ---
 
 冬の畑に白い大根が並ぶ。

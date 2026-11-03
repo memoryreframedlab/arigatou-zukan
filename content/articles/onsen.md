@@ -6,6 +6,7 @@ updatedAt: "2026-09-16"
 description: "旅館に宿泊して露天風呂を楽しむ。現代の温泉体験は快楽的だが、かつての温泉は療養と湯治が主な目的だった。"
 thumbnail: ""
 relatedSlugs: ["sento", "ryokan"]
+category: "レジャー・スポーツ"
 ---
 
 温泉地に到着し、夕食後に露天風呂でゆっくりと体を温める。

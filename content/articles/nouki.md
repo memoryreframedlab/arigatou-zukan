@@ -6,6 +6,7 @@ updatedAt: "2026-10-15"
 description: "コンバインが一時間で刈り取る面積を、かつての農家は何日もかけて鎌で刈った。その差が、日本の農業人口を激変させた。"
 thumbnail: ""
 relatedSlugs: ["tanbo", "jidosha", "gomi"]
+category: "年中行事・伝統"
 ---
 
 10月、田んぼには金色の稲穂が揺れる。

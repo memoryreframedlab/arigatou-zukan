@@ -6,6 +6,7 @@ updatedAt: "2026-10-07"
 description: "電線を通じて文字を瞬時に届ける。その技術が登場する前、緊急の知らせを遠くへ伝える手段は走ることだけだった。"
 thumbnail: ""
 relatedSlugs: ["denwa", "yubin", "internet"]
+category: "通信・テクノロジー"
 ---
 
 かつて、結婚式の祝電というものがあった。

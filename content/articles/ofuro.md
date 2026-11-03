@@ -6,6 +6,7 @@ updatedAt: "2026-10-13"
 description: "夜になれば浴室で湯に浸かれる。その当たり前の習慣が、毎晩の家事として成り立つようになったのは戦後のことだ。"
 thumbnail: ""
 relatedSlugs: ["sento", "suidou", "kyutoki"]
+category: "住まい・暮らし"
 ---
 
 寒くなってくると、湯船に浸かる気持ちよさが増す。

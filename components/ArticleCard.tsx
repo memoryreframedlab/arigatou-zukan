@@ -19,6 +19,11 @@ export default function ArticleCard({
           style={{ backgroundImage: `url(${article.thumbnail})` }}
         />
       ) : null}
+      {article.category ? (
+        <span className="mb-1 inline-block text-xs text-stone-400">
+          {article.category}
+        </span>
+      ) : null}
       <h3 className="font-bold leading-snug">{article.title}</h3>
       {showDescription && article.description ? (
         <p className="mt-1 text-sm text-stone-500 line-clamp-2">

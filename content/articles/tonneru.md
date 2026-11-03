@@ -6,6 +6,7 @@ updatedAt: "2026-12-07"
 description: "山を貫いて直進する。トンネルは地理的な障壁を消し去り、日本の地形に縛られた移動と物流を根本から変えた。"
 thumbnail: ""
 relatedSlugs: ["tetsudo", "hoso-doro", "kosoku"]
+category: "交通・インフラ"
 ---
 
 新幹線が山岳地帯に入ると、トンネルが続く。

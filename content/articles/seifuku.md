@@ -6,6 +6,7 @@ updatedAt: "2026-08-17"
 description: "学校に着ていく服が決まっている。この当たり前の前には、服装が自由だった時代がある。"
 thumbnail: ""
 relatedSlugs: ["gakko", "meishi"]
+category: "住まい・暮らし"
 ---
 
 学校制服が日本で広まったのは、明治〜大正時代のことだ。

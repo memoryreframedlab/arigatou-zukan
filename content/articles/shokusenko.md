@@ -6,6 +6,7 @@ updatedAt: "2026-12-02"
 description: "ボタン一つで食器が洗える。この家電は家事の中でも特に繰り返しが多い仕事を機械に任せた、生活時間の節約装置だ。"
 thumbnail: ""
 relatedSlugs: ["sentakuki", "senzai", "suidou"]
+category: "住まい・暮らし"
 ---
 
 食後、食器を食洗機に入れてスタートボタンを押す。

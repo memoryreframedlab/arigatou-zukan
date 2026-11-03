@@ -6,6 +6,7 @@ updatedAt: "2026-10-05"
 description: "秋になれば田んぼは金色になり、やがて新米が食卓に届く。その連鎖が始まる前、この列島に暮らした人々の食卓はどんな姿だったのか。"
 thumbnail: ""
 relatedSlugs: ["miso", "tofu", "shoyu"]
+category: "年中行事・伝統"
 ---
 
 10月になると、日本各地の田んぼが金色に変わる。

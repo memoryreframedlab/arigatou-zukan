@@ -6,6 +6,7 @@ updatedAt: "2026-12-17"
 description: "寿司・酢の物・ドレッシング。酢は日本食に欠かせないが、その起源は「腐らない酒」という偶然の発見だった。"
 thumbnail: ""
 relatedSlugs: ["shoyu", "miso", "sake"]
+category: "食べ物・食文化"
 ---
 
 酢飯の匂いが漂うと、食欲が湧く。

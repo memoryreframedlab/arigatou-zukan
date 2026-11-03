@@ -6,6 +6,7 @@ updatedAt: "2026-07-31"
 description: "ポケットの中に地図・電話・図書館・カメラがある。この状態が20年足らずで世界標準になった。"
 thumbnail: ""
 relatedSlugs: ["internet", "tokei"]
+category: "通信・テクノロジー"
 ---
 
 現代的なスマートフォンが登場したのは、2007年のことだ。

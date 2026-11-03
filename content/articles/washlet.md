@@ -6,6 +6,7 @@ updatedAt: "2026-12-13"
 description: "ボタンを押すとお湯が出る。これほど快適なのに世界では当たり前でない、日本発のトイレ文化の歴史。"
 thumbnail: ""
 relatedSlugs: ["toilet", "toilet-paper", "suidou"]
+category: "住まい・暮らし"
 ---
 
 海外旅行から帰国すると、温水洗浄便座のありがたさを実感する。

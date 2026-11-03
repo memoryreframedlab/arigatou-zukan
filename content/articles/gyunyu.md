@@ -6,6 +6,7 @@ updatedAt: "2026-08-12"
 description: "毎朝飲む牛乳。日本人が乳製品を日常的に飲み始めたのは、思っているよりずっと最近のことだ。"
 thumbnail: ""
 relatedSlugs: ["pan", "ryokucha"]
+category: "食べ物・食文化"
 ---
 
 牛乳が日本の家庭に普及したのは、戦後1950年代以降のことだ。

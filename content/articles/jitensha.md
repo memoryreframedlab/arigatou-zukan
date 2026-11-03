@@ -6,6 +6,7 @@ updatedAt: "2026-08-05"
 description: "ペダルを漕げばどこへでも行ける。この道具の普及は、女性の行動範囲を歴史的に広げた。"
 thumbnail: ""
 relatedSlugs: ["jidosha", "hoso-doro"]
+category: "交通・インフラ"
 ---
 
 現代的な自転車が登場したのは、1880年代のことだ。

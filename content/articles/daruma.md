@@ -6,6 +6,7 @@ updatedAt: "2027-01-17"
 description: "片目を入れて祈願し、達成したら両目を入れるだるま。この縁起物は選挙・受験・商売の目標管理ツールとして機能している。起き上がり小法師から進化した縁起物の歴史。"
 thumbnail: ""
 relatedSlugs: ["hatsumode", "koen", "koyomi"]
+category: "年中行事・伝統"
 ---
 
 白い目玉が二つ。

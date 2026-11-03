@@ -6,6 +6,7 @@ updatedAt: "2026-11-16"
 description: "ボタン一つで同じ書類が何枚でも出てくる。このコピーという行為は、情報の複製と共有のコストを劇的に下げた20世紀の発明だ。"
 thumbnail: ""
 relatedSlugs: ["katsuji", "pasokon", "shinbun"]
+category: "住まい・暮らし"
 ---
 
 会議の資料を人数分コピーして配布する。

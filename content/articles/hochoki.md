@@ -6,6 +6,7 @@ updatedAt: "2026-11-18"
 description: "小さな機器が耳の中で音を増幅する。補聴器の歴史は、聴覚の衰えを補う人類の試みの歴史だ。"
 thumbnail: ""
 relatedSlugs: ["megane", "byoin", "hoken"]
+category: "医療・健康"
 ---
 
 会話が聞き取れない。テレビの音を大きくしないと聞こえない。

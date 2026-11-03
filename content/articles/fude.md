@@ -6,6 +6,7 @@ updatedAt: "2026-10-11"
 description: "墨を磨り、筆に含ませ、息を整えてから書き始める。その行為の重さが、ボールペンの時代には伝わりにくい。"
 thumbnail: ""
 relatedSlugs: ["enpitsu", "keshigomu", "shinbun"]
+category: "教育・文化"
 ---
 
 書き初めの時間に、筆と硯を前にして緊張した記憶がある人は少なくないだろう。

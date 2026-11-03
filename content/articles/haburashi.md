@@ -6,6 +6,7 @@ updatedAt: "2026-07-11"
 description: "朝起きたら歯を磨く。その習慣の前には、塩と指で歯を磨く暮らしがあった。"
 thumbnail: ""
 relatedSlugs: ["sekken", "yakkyoku"]
+category: "住まい・暮らし"
 ---
 
 歯ブラシが日本の一般家庭に普及したのは、大正から昭和にかけてのことだ。

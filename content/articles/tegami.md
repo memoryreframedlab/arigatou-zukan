@@ -6,6 +6,7 @@ updatedAt: "2027-01-13"
 description: "文字を書いて人に届ける手紙は、人類最古の通信手段のひとつだ。メール・SNSが当たり前の時代に、手書きの手紙が持つ意味はむしろ増している。"
 thumbnail: ""
 relatedSlugs: ["yubin", "enpitsu", "denpou"]
+category: "通信・テクノロジー"
 ---
 
 封筒を手に取り、切手を貼る。

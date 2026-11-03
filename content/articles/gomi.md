@@ -6,6 +6,7 @@ updatedAt: "2026-07-20"
 description: "曜日ごとにゴミを出せば回収される。その仕組みの前の時代、江戸はゴミが出ない独自の循環社会を持っていた。"
 thumbnail: ""
 relatedSlugs: ["sentakuki", "hoso-doro"]
+category: "住まい・暮らし"
 ---
 
 近代的なゴミ収集制度が整備されたのは、日本では明治時代以降のことだ。

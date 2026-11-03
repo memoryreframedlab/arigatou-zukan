@@ -6,6 +6,7 @@ updatedAt: "2026-10-08"
 description: "一箇所で野菜も肉も魚も日用品も揃う。そのセルフサービスの買い物が当たり前になったのは、案外最近のことだ。"
 thumbnail: ""
 relatedSlugs: ["reizouko", "konbini", "reitoshokuhin"]
+category: "食べ物・食文化"
 ---
 
 今日の夕食の食材を買いに、スーパーへ行く。

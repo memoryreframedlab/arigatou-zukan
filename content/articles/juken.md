@@ -6,6 +6,7 @@ updatedAt: "2026-10-21"
 description: "試験を受けて合格すれば上の学校へ進める。その仕組みは、生まれによって将来が決まっていた時代からの、大きな転換点だった。"
 thumbnail: ""
 relatedSlugs: ["gakko", "seifuku", "randoseru"]
+category: "教育・文化"
 ---
 
 試験を受けて合否が決まる。

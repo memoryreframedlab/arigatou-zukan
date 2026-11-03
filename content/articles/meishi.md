@@ -6,6 +6,7 @@ updatedAt: "2026-08-18"
 description: "初対面で名刺を交わす。日本のビジネス文化の基本だが、名刺の歴史は意外に浅い。"
 thumbnail: ""
 relatedSlugs: ["seifuku", "internet"]
+category: "お金・社会制度"
 ---
 
 名刺が日本で広く使われるようになったのは、明治時代以降のことだ。

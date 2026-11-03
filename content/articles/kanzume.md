@@ -6,6 +6,7 @@ updatedAt: "2026-07-12"
 description: "常温で何年も保つ食品がある。その技術は、ナポレオンの軍隊への食料供給問題から生まれた。"
 thumbnail: ""
 relatedSlugs: ["reitoshokuhin", "gas-konro"]
+category: "食べ物・食文化"
 ---
 
 缶詰が発明されたのは、19世紀初頭のことだ。

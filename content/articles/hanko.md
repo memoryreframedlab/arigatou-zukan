@@ -6,6 +6,7 @@ updatedAt: "2026-08-29"
 description: "書類にはんこを押す。日本独自のこの文化は、いま脱ハンコの流れの中にある。"
 thumbnail: ""
 relatedSlugs: ["meishi", "ginko"]
+category: "お金・社会制度"
 ---
 
 はんこ（印章）が日本で広く使われるようになったのは、江戸時代以降のことだ。

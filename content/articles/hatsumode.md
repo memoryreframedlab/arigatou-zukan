@@ -6,6 +6,7 @@ updatedAt: "2027-01-16"
 description: "新年に神社・寺院を参拝する初詣は、実は明治以降に定着した比較的新しい習慣だ。鉄道の発達と神仏習合の歴史が生んだ、現代日本の正月文化。"
 thumbnail: ""
 relatedSlugs: ["daruma", "nengajo", "koyomi"]
+category: "年中行事・伝統"
 ---
 
 年が明けると、人々は神社や寺院に向かう。

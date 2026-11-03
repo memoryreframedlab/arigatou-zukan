@@ -6,6 +6,7 @@ updatedAt: "2026-08-13"
 description: "急須でお茶を淹れる。日本の日常に溶け込んだ緑茶だが、最初は僧侶が命がけで持ち帰った薬だった。"
 thumbnail: ""
 relatedSlugs: ["gyunyu", "kohi"]
+category: "食べ物・食文化"
 ---
 
 緑茶が日本の庶民に広く普及したのは、江戸時代中期以降のことだ。

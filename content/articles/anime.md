@@ -6,6 +6,7 @@ updatedAt: "2026-11-20"
 description: "一枚ずつ描いた絵がつながって動き出す。セルアニメから3DCGへ。日本のアニメが世界に広がるまでの70年。"
 thumbnail: ""
 relatedSlugs: ["terebi", "manga", "eiga"]
+category: "メディア・エンタメ"
 ---
 
 子どもの頃、好きなアニメが始まると走ってテレビの前に座った。

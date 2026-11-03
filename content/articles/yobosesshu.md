@@ -6,6 +6,7 @@ updatedAt: "2026-10-04"
 description: "注射一本で感染症を予防できる。その当たり前は、天然痘との長い闘いの中から生まれた。"
 thumbnail: ""
 relatedSlugs: ["byoin", "yakkyoku", "suidou"]
+category: "医療・健康"
 ---
 
 子どものころ、病院で注射を打たれた記憶がある人は多いだろう。

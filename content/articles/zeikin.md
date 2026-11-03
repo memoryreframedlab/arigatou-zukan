@@ -6,6 +6,7 @@ updatedAt: "2026-10-22"
 description: "払いたくないと思うものの筆頭に挙げられる税金は、実は国家や社会が存在するかぎり、どの時代にも形を変えながら存在し続けてきた。"
 thumbnail: ""
 relatedSlugs: ["ginko", "hoken", "senkyo"]
+category: "お金・社会制度"
 ---
 
 消費税、所得税、住民税。

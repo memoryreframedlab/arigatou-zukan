@@ -6,6 +6,7 @@ updatedAt: "2027-01-19"
 description: "1月に行われる新年会は、年末の忘年会と対になる日本独特の職場・仲間の宴会文化だ。共に食事をすることが人間関係の潤滑油になってきた歴史。"
 thumbnail: ""
 relatedSlugs: ["sake", "gaishoku", "kissaten"]
+category: "年中行事・伝統"
 ---
 
 1月、職場・仲間内での新年会のお知らせが届く。

@@ -6,6 +6,7 @@ updatedAt: "2026-07-29"
 description: "義務教育は当たり前ではない。学齢期の子どもが全員学校に通える状態は、近代になって作られた仕組みだ。"
 thumbnail: ""
 relatedSlugs: ["toshokan", "tetsudo"]
+category: "教育・文化"
 ---
 
 近代的な学校制度が日本に整備されたのは、1872年（明治5年）のことだ。

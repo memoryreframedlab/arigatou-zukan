@@ -6,6 +6,7 @@ updatedAt: "2026-11-04"
 description: "吹き出しの中にセリフが入り、コマが左から右へと流れていく。現代マンガの形式は、戦後の日本で作り上げられた独自の表現様式だ。"
 thumbnail: ""
 relatedSlugs: ["shinbun", "terebi", "eiga"]
+category: "メディア・エンタメ"
 ---
 
 コマを追い、吹き出しを読み、次のページへめくる。

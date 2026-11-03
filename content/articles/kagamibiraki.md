@@ -6,6 +6,7 @@ updatedAt: "2027-01-14"
 description: "1月11日に飾っていた鏡餅を下ろして食べる鏡開き。「開く」という言葉に込められた武家文化の縁起と、供え物を食べることへの信仰の変化。"
 thumbnail: ""
 relatedSlugs: ["mochitsuki", "sake", "osechi"]
+category: "食べ物・食文化"
 ---
 
 1月11日、飾っていた鏡餅を下ろす。

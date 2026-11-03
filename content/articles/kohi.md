@@ -6,6 +6,7 @@ updatedAt: "2026-08-14"
 description: "毎朝飲むコーヒー。かつてこの飲み物は、教会に禁止され、カフェを閉鎖しようとした王に反発されたほど社会を揺るがした。"
 thumbnail: ""
 relatedSlugs: ["ryokucha", "koban"]
+category: "食べ物・食文化"
 ---
 
 コーヒーが世界に広まったのは、15〜16世紀のことだ。

@@ -6,6 +6,7 @@ updatedAt: "2026-07-30"
 description: "知りたいことを検索すれば数秒でわかる。この状態が標準になったのは、人類の歴史では本当につい最近のことだ。"
 thumbnail: ""
 relatedSlugs: ["smartphone", "toshokan"]
+category: "通信・テクノロジー"
 ---
 
 一般向けのインターネットが日本で普及し始めたのは、1990年代中頃のことだ。

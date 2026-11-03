@@ -6,6 +6,7 @@ updatedAt: "2026-10-24"
 description: "店に入れば食事ができる。その当たり前の外食文化は、江戸の屋台文化から始まり、今や家庭の食卓を超える市場になった。"
 thumbnail: ""
 relatedSlugs: ["kissaten", "supa", "reitoshokuhin"]
+category: "食べ物・食文化"
 ---
 
 夕方になって、今日は外食にしよう、という日がある。

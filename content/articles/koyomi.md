@@ -6,6 +6,7 @@ updatedAt: "2026-10-29"
 description: "1873年1月1日、日本は太陰太陽暦から太陽暦へと切り替わった。それはただの暦の変更ではなく、日本人の生活リズム全体を書き換えた転換だった。"
 thumbnail: ""
 relatedSlugs: ["karenda", "shinbun", "tetsudo"]
+category: "年中行事・伝統"
 ---
 
 1月1日が新年というのは、今では揺るぎない当たり前だ。

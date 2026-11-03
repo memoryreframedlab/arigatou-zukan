@@ -6,6 +6,7 @@ updatedAt: "2027-01-12"
 description: "雪の斜面を滑り降りるスキーは北欧発祥の移動手段だった。日本には明治時代に伝わり、戦後に大衆スポーツとして爆発的に普及した冬の文化。"
 thumbnail: ""
 relatedSlugs: ["undokai", "nouki", "kosoku"]
+category: "レジャー・スポーツ"
 ---
 
 雪山の急斜面を、板を履いて滑り降りる。

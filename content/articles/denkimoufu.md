@@ -6,6 +6,7 @@ updatedAt: "2027-01-10"
 description: "スイッチ一つで寝床を温める電気毛布は戦後の発明品だ。炭火・湯たんぽから電気へと移行した、就寝時の暖房の歴史と安全性の変化。"
 thumbnail: ""
 relatedSlugs: ["aircon", "kotatsu", "sutobu"]
+category: "住まい・暮らし"
 ---
 
 寝る前に電気毛布のスイッチを入れておく。

@@ -6,6 +6,7 @@ updatedAt: "2026-07-02"
 description: "サイレンの音が近づいてくると、車は端に寄り道を譲る。その光景が当たり前になったのは、それほど昔のことではない。"
 thumbnail: ""
 relatedSlugs: ["yubin", "shingo"]
+category: "医療・健康"
 ---
 
 遠くからサイレンの音が聞こえてくると、周囲の車が自然に端に寄る。

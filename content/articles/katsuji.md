@@ -6,6 +6,7 @@ updatedAt: "2026-09-04"
 description: "印刷機が登場する前、本の複製は人の手で一文字ずつ書き写すほかなかった。それが知識の伝わり方を根本から決めていた。"
 thumbnail: ""
 relatedSlugs: ["jisho", "shinbun"]
+category: "教育・文化"
 ---
 
 本を「読む」ことと、本を「作る」ことが、かつては分離していなかった。

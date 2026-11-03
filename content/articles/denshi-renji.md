@@ -6,6 +6,7 @@ updatedAt: "2026-07-07"
 description: "料理を数十秒で温め直せる。その当たり前の裏には、戦争中の偶然の発見があった。"
 thumbnail: ""
 relatedSlugs: ["gas-konro", "reizouko"]
+category: "住まい・暮らし"
 ---
 
 電子レンジが家庭に普及したのは、1970年代以降のことだ。

@@ -6,6 +6,7 @@ updatedAt: "2026-10-23"
 description: "東海道新幹線で東京〜新大阪は約2時間15分。その当たり前の移動時間は、蒸気機関車の時代と比べると7分の1以下だ。"
 thumbnail: ""
 relatedSlugs: ["tetsudo", "hikoki", "jidosha"]
+category: "交通・インフラ"
 ---
 
 新幹線に乗ると、東京から新大阪まで2時間15分ほどで着く。

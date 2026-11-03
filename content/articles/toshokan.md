@@ -6,6 +6,7 @@ updatedAt: "2026-07-28"
 description: "無料で本が借りられる。この当たり前の裏には「知識へのアクセスは誰にでも開かれるべき」という思想がある。"
 thumbnail: ""
 relatedSlugs: ["gakko", "karenda"]
+category: "教育・文化"
 ---
 
 無料で本を借りられる公共図書館が日本に整備されたのは、明治時代以降のことだ。
